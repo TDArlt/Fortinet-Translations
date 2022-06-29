@@ -1,0 +1,3223 @@
+
+
+
+Zauberer
+#
+Gerät(e)
+Zeitplan
+Aktion
+Ereignisse
+Dauer
+Zeit durchsuchen
+Leerzeichen sind im Berichtsnamen nicht erlaubt
+Der Name des Berichts "Nach Zeitplan" ist zu lang, die maximale Länge beträgt
+Bei Bedarf ist der Berichtsname zu lang, die Maximallänge ist
+Blockierte Verbindung
+Fehlgeschlagene Verbindung
+
+FortiAnalyzer-Bericht
+
+Alle
+
+Täglich
+Wöchentlich
+Monatlich
+
+Bericht bearbeiten
+
+Komma-getrennte Werte (z.B. a,b,1,2)
+
+Neu
+Neuen Bericht erstellen
+Neuen Bericht
+
+Umbenennen
+Umbenennen
+
+Hinzufügen
+Löschen
+Löschen
+
+Bericht Name
+Typ
+Nach Zeitplan
+Bei Bedarf (einmalig ausführen)
+Titel des Berichts
+Beschreibung
+Zeitabschnitt
+Umfang des Berichts
+Format des Berichts
+
+UTM-Sicherheitsanalyse
+Bericht zur UTM-Sicherheitsanalyse
+Bandbreiten und Anwendungen
+Verkehrsbandbreite für die letzten 7 Tage
+Anzahl der Sitzungen für die letzten 7 Tage
+Top-Benutzer nach Bandbreite
+Wichtigste Anwendungen nach Bandbreite
+Top-Zieladressen nach Bandbreite
+Top-Benutzer nach Sitzungen
+Top-Anwendungen nach Sitzungen
+Top-Zieladressen nach Sitzungen
+Top-Zieladressen nach Sitzungen
+Verkehrsverlauf nach Anzahl der aktiven Benutzer
+Zusammenfassung der Benutzeraktivität
+Top 5 Benutzer nach Bandbreite
+
+Web-Nutzung
+Web-Nutzungsbericht
+Top erlaubte Websites nach Anfragen
+Top blockierte Websites
+Top Web-Benutzer nach Anfragen
+Top erlaubte Websites nach Bandbreite
+Top blockierte Benutzer
+Top Web-Benutzer nach Bandbreite
+Top-Video-Streaming-Websites nach Bandbreite
+
+Emails
+E-Mail-Bericht
+Top-Absender nach Anzahl der Emails
+Top-Empfänger nach Anzahl der E-Mails
+Top-Absender nach kombinierter E-Mail-Größe
+Top-Empfänger nach kombinierter E-Mail-Größe
+
+Top-E-Mail-Absender nach Anzahl
+Top E-Mail-Absender nach Volumen
+Top-E-Mail-Versand-Empfänger nach Anzahl
+Top-E-Mail-Versand-Empfänger nach Volumen
+Top-E-Mail-Empfänger nach Anzahl
+Top-E-Mail-Empfänger nach Volumen
+Top E-Mail-Empfangsabsender nach Anzahl
+Top E-Mail-Empfangsabsender nach Volumen
+
+Bedrohungen
+Top-Viren
+Einzelheiten zum Virus
+Top-Angriffsquellen
+Top-Angriffe
+Top-Viren nach Name
+Top-Virus-Opfer
+Top-Angriffsopfer
+
+Top Site-to-Site IPSec-Tunnel nach Bandbreite
+Top SSL-VPN-Tunnelnutzer nach Bandbreite
+Top Dial-Up IPSec-Tunnel nach Bandbreite
+Top SSL-VPN-Webmodus-Benutzer nach Bandbreite
+
+Client-Reputation
+Client-Reputationsbericht
+Zusammenfassung für Benutzer und Geräte
+Zusammenfassung der Punkte für alle Benutzer/Geräte
+Top-Benutzer nach Reputations-Scores
+Top-Benutzer mit erhöhter Punktzahl für die letzten 2 Zeiträume
+Anzahl der Vorfälle für alle Benutzer/Geräte
+Top-Geräte nach Reputationswerten
+Top-Geräte mit erhöhter Punktzahl in den letzten 2 Zeiträumen
+
+Drahtlose PCI
+Wireless-PCI-Bericht
+Zusammenfassung der Erkennung von Rogue APs (OnWire)
+Zusammenfassung der Erkennung von Rogue APs (OffWire)
+Zusammenfassung der Erkennung von Rogue APs (OnWire) Tabelle
+Zusammenfassung der Erkennung von Rogue APs (OffWire) Tabelle
+APs, die von der IT als akzeptiert markiert wurden (OnWire)
+APs, die von IT als akzeptiert markiert wurden (OffWire)
+Wireless Client Ereignisdetails
+
+VPN-Bericht
+VPN-Traffic-Nutzungstrend
+Top Dial-Up VPN-Benutzer
+
+SSL-VPN-Benutzer
+SSL VPN-Benutzerbericht
+Top-Quellen von SSL-VPN-Tunneln nach Bandbreite
+
+Web-Filter
+Web-Filterung und -Verwendung
+Zusammenfassung der Web-Aktivitäten nach Requests
+Zusammenfassung der Browsing-Zeit
+Top-Webbenutzer nach blockierten Anfragen
+Top-Webbenutzer nach erlaubten Anfragen
+Top-Webbenutzer nach Browsing-Zeit
+Top gesperrte Websites nach Anfragen
+Top erlaubte Websites nach Anfragen
+Top erlaubte Websites nach Bandbreite
+Top blockierte Webkategorien
+Top erlaubte Webkategorien
+Top Web Domains nach Browsing-Zeit
+Top-Zielländer nach Verweildauer
+Top-Suchbegriff
+Geschätzte Browsing-Zeit
+
+Top Web-Kategorien
+Top Erlaubte Benutzer
+Erlaubte Top-Websites
+Top-Websites nach Bandbreite
+Top-Suchphrasen
+
+Einwahl VPN-Benutzer
+VPN-Nutzung
+Top-Benutzer von IPSec VPN-Tunnel
+Top-Benutzer von IPSec VPN Einwahltunnel nach Bandbreite
+Top Statische VPN-Tunnel
+Top VPN Einwahltunnel
+
+UTM-Zusammenfassung
+Admin-Login und Systemereignisse
+Zusammenfassung Admin-Login
+System Aktiv Zusammenfassung
+DHCP-Zusammenfassung
+DHCP-Zusammenfassung nach Port
+Traffic-Zusammenfassung
+E-Mail-Zusammenfassung
+Web-Zusammenfassung
+Übersicht über Bedrohungen
+Zusammenfassung der Anwendungen
+
+Top Wifi Client nach Bandbreite
+Wifi Netzwerk Zusammenfassung
+Netzwerk-Zusammenfassung
+Insgesamt übertragene Daten
+Anzahl der einzelnen Clients
+Wireless-Nutzung und Clients
+Top APs nach Nutzung
+SSID-Nutzung
+Top-Anwendungen nach Nutzung
+Top-Betriebssysteme nach Nutzung
+Top Gerätetyp nach Nutzung
+Top APs nach Anzahl der Clients
+Top SSID nach Anzahl der Clients
+Top Clients nach Nutzung
+Top-Betriebssysteme nach Anzahl der Clients
+Top-Gerätetyp nach Anzahl der Clients
+
+FortiMail-Standardbericht
+FortiMail-Bericht
+Top 10 Client-IP
+Top 10 Absender
+Top 10 Virenabsender
+Top 10 Lokale Benutzer
+Top-10-Empfänger
+Top 10 Virus-Empfänger
+
+FortiWeb-Standardbericht
+FortiWeb-Bericht
+Top-Quellen für Angriffe
+Top-Quellen
+Top-Ereigniskategorien
+Top Login-Ereignisse nach Benutzer
+Top-Angriffsziele
+Top-Ziele
+Wichtigste Ereignistypen
+
+Name der Website
+Schnittstelle
+Zugewiesene IP (%)
+Anzahl neuer Clients
+Angriffsopfer
+Ziel des Angriffs
+Aggregierte gewählte Zeit
+Aggregierte Bytes
+Datum/Uhrzeit
+Name des Benutzers
+Login-Schnittstelle
+Dauer
+Konfig-Änderungen
+Ereignisse
+Erlaubt
+Blockiert
+Durchsuchungszeit
+Durchsuchungszeit (Minuten)
+Durchsuchungszeit (Stunden)
+Gesendet
+Empfangen
+Kategorien
+Domänen
+Bereich
+Ziel
+Phrase
+AP-Name
+Verwendung
+Anzahl von Clients
+Klient
+Betriebssystem
+Übertragene Daten
+Eindeutige Clients
+Quelle
+Quell-IP
+Name der Quelle
+Besuche
+Seiten
+Volumen
+Anzahl von Emails
+Name des Angriffs
+Virus
+Client-IP
+Lokaler Benutzer
+Entfernte Adresse
+Endpunkt
+Absender-IP
+Ziel-IP
+Richtung
+Absender Virus
+Virus-IP
+Untertyp
+Host
+URL
+Aktion
+Methode
+Richtlinie
+Dienst
+Sitzungs-ID
+Status
+Nachricht
+Typ
+SSL aus
+SSL ein
+IPSEC-Ausgang
+IPSEC-Eingang
+
+Zeitstempel
+Verkehr Aus
+Verkehr eingehend
+Anzahl der Sitzungen
+Benutzer
+IP
+Bandbreite
+AppId
+Anwendung
+Sitzungen
+Aktive Benutzer
+Website
+Anfragen
+Benutzer (oder IP)
+DevType
+Hostname (oder Mac)
+Video-Streaming-Website
+Absender
+Empfänger
+Kombinierte E-Mail-Größe
+Name des Virus
+Vorkommen
+Virus-Opfer
+Top-Angriffsquelle
+Quelle des Angriffs
+DstCountry
+Standort-zu-Standort IPSec-Tunnel
+Einwahl-IPSec-Tunnel
+Top-5-Ziele
+Ziel
+E-Mail-Absender Zusammenfassung
+E-Mail-Empfänger Zusammenfassung
+Top 5 E-Mail-Empfänger
+Top 5 E-Mail-Absender
+Top 10 Erlaubte Sites
+Top 10 der blockierten Websites
+Name der Bedrohung
+Zählt
+Angriffe
+Liste Anzahl der Schwachstellen
+Anzahl der Vorfälle
+Werte
+Gerät
+Gesamtzahl
+AP Voller Status
+DevID
+VD
+SSID
+BSSID
+Hersteller
+RSSI
+Kanal
+Funkband
+Erstmals gesehen
+Zuletzt gesehen
+Erkennungsmethode
+Auf Draht
+MAC
+SN
+VPN
+Entfernte IP
+Insgesamt
+Host-Name
+
+Top 5 Anwendungen nach Bandbreite
+Top 5 Anwendungen nach Sitzungen
+Zusammenfassung der Ergebnisse für alle Benutzer/Geräte der letzten 7 Tage
+Zusammenfassung der Ergebnisse für alle Benutzer
+Anzahl der Vorfälle für alle Benutzer/Geräte in den letzten 7 Tagen
+
+Zusammenfassung der Standard-AP-Erkennung nach Status OffWire Kreisdiagramm
+Standard-AP-Erkennung - Zusammenfassung nach Status OffWire Tabellendiagramm
+Standard-AP-Erkennungsübersicht nach Status OnWire Tortendiagramm
+Standard-AP-Erkennungsübersicht nach Status OnWire Tabellendiagramm
+Standard-Zusammenfassung Managed AP
+Standard-Zusammenfassung der verwalteten APs Tabelle
+Standard Ausgewählte AP Details OffWire
+Standard Ausgewählte AP-Details OnWire
+
+Verkehrsübersicht
+Gesamtzahl der Sitzungen
+Gesamtzahl der Bytes
+Top-5-Ziele
+Ziel
+Anzahl der Sitzungen
+App
+Zusammenfassung der E-Mail-Aktivitäten
+Anzahl
+Bytes
+Gesamte gesendete E-Mails
+Empfangene E-Mails insgesamt
+Top 5 E-Mail-Empfänger
+Top 5 E-Mail-Absender
+Empfänger
+Absender
+Bandbreite
+Zusammenfassung der Web-Aktivitäten
+Top 10 Erlaubte Seiten
+Top 10 der blockierten Websites
+Zusammenfassung der Bedrohung
+Name der Bedrohung
+Typ
+Zählung
+Zusammenfassung der Anwendungen
+Top 5 Anwendungsbandbreite
+Top 5 Anwendungssitzungen
+Benutzer
+IP
+Gerät
+Nutzung
+K.A.
+Individueller Bericht für
+Höchste Bandbreite
+
+Weiter >>
+<< Zurück
+Beenden
+
+Name des Virus
+Agent
+Protokoll-ID
+Richtlinien-ID
+E-Mail-Domäne
+Richtung
+E-Mail Absender(n)
+E-Mail-Empfänger(n)
+
+Verzeichnis der Inhalte
+Anhang
+Anhang A
+Anhang B
+Anhang C
+Anhang D
+Anhang E
+Anhang F
+Anhang G
+(siehe Anhang)
+Erzeugt von
+Erzeugt am
+Datum des Berichts
+Der Bericht wurde gestartet.  Er wird angezeigt als
+Dieser Bericht wird nicht ausgeführt, da er innerhalb von 1 Minute bereits 10 Mal ausgeführt wurde.
+
+Name des neuen Elements
+Name für die neue Kopie dieses Elements
+Neuer Name für dieses Element
+Element löschen
+
+Der Berichtsname darf NICHT leer sein.
+Erlaubte Zeichen in Berichtsnamen sind: Ziffern(0-9), Buchstaben(A-Z, a-z), Bindestrich(-), Unterstrich(_)
+
+Bericht
+Ausführen
+Jetzt ausführen
+
+Meldungstyp
+Anzahl der Nachrichten
+
+Insgesamt gescannt
+Infiziert/Blockiert
+Abgefangen
+Verdächtig
+
+Ergebnis
+Letzter Zeitraum
+Aktueller Zeitraum
+Keine Veränderung
+Zunahme
+Rückgang
+
+Trend Name
+MSISDN-Infektionen
+Desinfizierte MSISDN
+Neu infizierte MSISDN
+Gesamttrend
+Alle MMS/Abgefangene
+Erkannte Malware
+Infizierte MSISDN
+Virus-Klasse
+Empfänger
+
+LAN
+WAN
+Reduktionsrate
+Reduziert
+Quelle
+WAN-Opt-Regel
+
+Umfang des Berichts
+Ergebnisse des Berichts
+Für alle Geräte
+Pro Gerät
+Pro virtuelle Domäne
+Host-Namen auflösen
+Servicenamen auflösen
+Benutzer(gruppen)namen verschleiern
+Zusammenfassung der Kategorieberichte anzeigen
+Berichte mit nicht übereinstimmenden Daten einschließen
+Zusammenfassende Informationen einschließen
+Inhaltsverzeichnis einbeziehen
+Erweitert
+In 'Ranglisten-Berichten' die wichtigsten
+Werte der ersten Variable 1...
+Werte der zweiten Variable für jeden Wert der ersten Variable 1..
+Der Wert der ersten Variable sollte eine Zahl zwischen 1 und  
+Der Wert der zweiten Variable sollte eine Zahl zwischen 1 und  
+Der Wert der obersten Audit-Abfrageergebnisse sollte eine Zahl zwischen 1 und sein 
+
+Lokale Zeit für
+ausgewählte Geräte
+FortiAnalyzer
+Heute
+Gestern
+Letzte N Stunden
+Letzte N Wochen
+Diese Woche
+Letzte Woche
+Letzte 7 Tage
+Letzte N Tage
+Letzte 2 Wochen
+Zurückliegende 14 Tage
+Dieser Monat
+Vergangener Monat
+Seit 30 Tagen
+Dieses Quartal
+Vergangenes Quartal
+Dieses Jahr
+
+Bitte geben Sie eine Zahl für
+sollte eine Zahl sein.
+Wert liegt außerhalb des Bereichs.
+sollte vor sein
+.
+
+Verfügbare IP-Aliase
+Ausgewählte IP-Aliase
+
+Wählen Sie ein Plugin-Set
+Plugins
+Scan-Ziele
+Scan-Ziele auswählen
+IP-Adresse
+
+FortiGate-Berichtstyp(en)
+FortiClient-Berichtstyp(en)
+FortiMail-Berichtstyp(en)
+Forensik-Berichtstyp(en)
+Satz von Berichten
+Benutzerdefiniert
+Grundlegend
+Sie müssen mindestens eine Abfrage auswählen, um einen Bericht zu erstellen.
+
+Geräte
+Sie müssen mindestens ein Gerät auswählen, um einen Bericht zu erstellen.
+keine Gruppe
+
+Daten-Filter
+Protokolle filtern
+Protokolle einbeziehen, die mit
+alle
+alle
+nicht
+oder
+und
+die folgenden Kriterien
+
+
+
+kleiner als oder gleich
+höher als oder gleich
+ist
+AND
+ODER
+zwischen
+und
+Lokaler Benutzer
+Entfernter Benutzer
+Protokoll
+Protokoll
+Lokaler Benutzer
+Entfernter Benutzer
+Aktion
+Aktion
+Aktion
+Priorität
+Notfall
+Warnung
+Kritisch
+Fehler
+Warnung
+Benachrichtigung
+Informationen
+Fehlersuche
+
+Unbefugter Zugriff
+Denial of Service (DoS)
+Bösartiger Code
+Unsachgemäße Verwendung
+Scans/Probes/Versuchter Zugriff
+Nicht kategorisiert
+Neu
+Analyse
+Antwort
+Geschlossen-vermittelt
+Abgeschlossen-Falsch Positiv
+Hoch
+Mittel
+Niedrig
+
+Alias
+Quell-Schnittstelle
+Ziel-Schnittstelle
+VDom
+VIP
+(Alias auswählen)
+Priorität
+Quelle(n)
+Ziel(e)
+Schnittstelle(n)
+Benutzer(s)
+Gruppe(n)
+LDAP-Abfrage
+Virtuelle Domäne(n)
+Richtlinien-ID(s)
+Dienst(e)
+E-Mail-Domäne(n)
+E-Mail-Richtung(en)
+Nachricht(en)
+Port(s)
+URL(s)
+Uhrzeit
+Tag der Woche
+Klassifiziert von
+Ergriffene Maßnahme
+Infizierte Nachricht
+Lokaler Benutzer
+Entfernte Adresse
+Virus-Name
+Lokal an
+Lokal nach Domäne
+Lokal von
+Lokal von Domäne
+Entfernt nach
+Entfernt nach Domäne
+Entfernt von
+Entfernt von Domäne
+Spam-Empfänger
+Spam-Empfänger Domäne
+Spam Absender
+Spam Absender IP
+Spam-Absender-Domäne
+Lokaler Spam-Empfänger
+Lokale Spam-Empfänger-Domäne
+Lokaler Spam-Absender
+Lokale Spam-Absender-Domäne
+Entfernter Spam-Empfänger
+Domäne des entfernten Spam-Empfängers
+Entfernter Spam-Absender
+Domäne des entfernten Spam-Absenders
+Virus-Empfänger
+Virus-Empfänger-Domäne
+Virus Absender
+Virus Absender Domäne
+Virus Absender IP
+Lokaler Virus-Empfänger
+Lokale Virus-Empfänger-Domäne
+Lokaler Virus Absender
+Lokale Virus-Sender-Domäne
+Entfernter Virus-Empfänger
+Remote-Virus-Empfänger-Domäne
+Entfernter Virus Absender
+Entfernte Virus-Sender-Domäne
+System Benutzer
+Client-IP
+Absender IP
+Kunde MSISDN
+Absender MSISDN
+Spam MSISDN
+Virus MSISDN
+Ziel-IP
+Virus Ziel-IP
+Spam Ziel-IP
+Spam/Nicht-Spam
+Regel Name
+Host-Name
+Mailer
+Woche des Jahres
+Tag des Monats
+Es gibt illegale Zeichen im Quellfilter.
+Es gibt unzulässige Zeichen im Zielfilter.
+Es gibt unzulässige Zeichen im Filter "Schnittstelle".
+Folgende Zeichen sind im Benutzerfilter erlaubt: Ziffern(0-9), Buchstaben(A-Z, a-z), Bindestrich(-), Unterstrich(_), Komma(,), Punkt(.)
+Die folgenden Zeichen sind für Gruppenfilter nicht zulässig: < > # \" \'.
+Folgende Zeichen sind im Filter "Virtuelle Domäne" erlaubt: Ziffern(0-9), Buchstaben(A-Z, a-z), Bindestrich(-), Unterstrich(_), Komma(,), Punkt(.)
+Erlaubte Zeichen im Richtlinien-ID-Filter sind: Ziffern(0-9), Buchstaben(A-Z, a-z), Bindestrich(-), Unterstrich(_), Komma(,), Punkt(.)
+Erlaubte Zeichen im Filter Service sind: Ziffern(0-9), Buchstaben(A-Z, a-z), Bindestrich(-), Unterstrich(_), Komma(,), Punkt(.) und (/)
+Folgende Zeichen sind im Filter E-Mail-Domäne erlaubt: Ziffern(0-9), Buchstaben(A-Z, a-z), Bindestrich(-), Unterstrich(_), Komma(,), Punkt(.), Doppelpunkt(:), eckige Klammern([]).
+Erlaubte Zeichen im E-Mail-Richtungsfilter sind: Ziffern(0-9), Buchstaben(A-Z, a-z), Bindestrich(-), Unterstrich(_), Komma(,), Punkt(.)
+Folgende Zeichen sind im Nachrichtenfilter erlaubt: Ziffern(0-9), Buchstaben(A-Z, a-z), Bindestrich(-), Unterstrich(_), Komma(,), Punkt(.)
+Hinweis
+Sie können ',' verwenden, um zwei oder mehr Werte in die folgenden Felder einzugeben. 
+Zeitplan
+Diesen Zeitplan verwenden
+Nicht geplant
+Diese Tage
+Diese Daten
+Zur Stunde
+Nicht geplant
+Jeden Tag
+Jeden Monat
+
+
+
+unter
+So
+Mo
+Di
+Mi
+Do
+Fr
+Sa
+z.B. 1,14,28
+Uhrzeit
+Keine Stunde ausgewählt
+Keine Tage ausgewählt
+Keine Daten ausgewählt
+
+Ausgabe
+Diese Ausgabe verwenden
+Datei-Ausgabe
+Format der Ausgabe
+E-Mail-Ausgabe
+E-Mail-Liste
+E-Mail-Betreff
+E-Mail von
+E-Mail an
+E-Mail-Server
+Name des E-Mail-Anhangs
+E-Mail-Text
+Der Betreff der E-Mail sollte nicht leer sein.
+Der Name des E-Mail-Anhangs darf nicht leer sein.
+Leerzeichen sind im Namen des E-Mail-Anhangs nicht erlaubt.
+Die im Namen des E-Mail-Anhangs zulässigen Zeichen sind Zahlen (0-9), Buchstaben (A-Z, a-z) und Sonderzeichen - und _
+Ungültige Zeichen im Namen des E-Mail-Anhangs.
+Der E-Mail-Text sollte nicht leer sein.
+Die maximale Länge des E-Mail-Textes beträgt 256 Bytes.
+Zu viele E-Mail-Adressen!
+E-Mail-Adressformat ist ungültig.
+Mindestens eine Email-Adresse erforderlich
+Bitte geben Sie eine E-Mail Adresse an
+Bitte geben Sie einen Mailserver an.
+HTML
+PDF
+MS Word
+Text
+MHT
+Keine Formate ausgewählt
+E-Mail-Adressen, eine pro Zeile
+verfügbarer E-Mail-Server
+Bericht auf FTP-Server hochladen
+Server-Typ
+IP-Adresse
+Die IP-Adresse darf nicht leer sein.
+ist keine gültige IP-Adresse oder IP-Bereich.
+Benutzername
+Kennwort
+Verzeichnis
+Bericht(e) im gzipped-Format hochladen
+Datei(en) nach dem Hochladen löschen
+
+Eigenschaften
+Name des Berichts
+Name der Firma
+Keine
+Titelseite Logo
+Hochladen
+Herunterladen
+Kopfzeile Kommentar
+Kopfzeile Logo
+Fußzeile Kommentar
+Der Name darf nicht leer sein.
+
+Benutzerdefiniert
+Kein Logo
+
+Berichte auswählen
+Wählen Sie
+Verfügbare Berichte
+
+Volumen
+Volumen(%)
+Standort und Kategorie
+Zugriffe
+Verkehr
+Tabelle
+Grafik
+Ereignis
+Virus
+Web-Filter
+Anti-Spam
+Intrusion Aktivität
+
+
+
+Netzwerk-Aktivität
+Web-Aktivität
+FTP-Aktivität
+Terminal-Aktivität
+Mail-Aktivität
+Intrusion-Aktivität
+AntiVirus-Aktivität
+Web-Filter-Aktivität
+Anti-Spam-Aktivität
+IM-Aktivität
+VPN-Aktivität
+DLP-Aktivität
+Ereignis-Aktivität
+Authentifizierte Benutzer-Aktivität
+P2P-Aktivität
+Audit-Aktivität
+
+Netzwerk-Aktivität
+Netzwerk-Aktivität
+Web-Aktivität
+Web-Aktivität
+FTP-Aktivität
+FTP-Aktivität
+Terminal-Aktivität
+Terminal-Aktivität
+Mail-Aktivität
+Mail-Aktivität
+Intrusion-Aktivität
+AntiVirus-Aktivität
+WebFilter-Aktivität
+Anti-Spam-Aktivität
+IM-Aktivität
+IM-Aktivität
+VPN-Aktivität
+VPN-Aktivität
+DLP-Aktivität
+Ereignis-Aktivität
+Authentifizierte Benutzer-Aktivität
+P2P-Aktivität
+P2P-Aktivität
+VoIP-Aktivität
+VoIP-Aktivität
+Datenleck-Aktivität
+Anwendungskontroll-Aktivität
+Enthält Statistiken über die FortiGate-Anwendungskontrollaktivität.
+
+Insgesamt
+Zusammenfassung
+Netzwerk
+Antivirus
+Eindringlinge
+Anti-Spam
+Web-Filter
+DLP-Archiv
+Ereignis
+Prüfung
+
+Verwaltung
+Stündlich
+Nach Tag
+Nach Datum
+Nach Woche
+Nach Monat
+Nach Virus
+Nach Ereignis
+Protokoll
+Angriff nach Zeit
+Zusammenfassung der Top-Angriffe
+Nach Quelle
+Nach Ziel
+Nach Priorität
+Andere
+Anti-Spam-Ereignisse
+Blockierte Aktivität
+Erlaubte Aktivität
+Aktivität nach Clients
+WebFilter-Ereignisse
+Nach Kunden
+Nach Dienst
+Nach Servern
+
+Standard
+FortiMail Mail Hohe Ebene
+FortiMail Mail-Aktivität
+FortiMail Spam-Aktivität
+FortiMail-Virus-Aktivität
+
+FortiClient Intrusion-Aktivität
+FortiClient AntiVirus-Aktivität
+FortiClient Netzwerk-Aktivität
+FortiClient WebFilter-Aktivität
+FortiClient Anti-Spam-Aktivität
+
+Protokoll-Verteilung
+Erkannte Viren insgesamt
+Erkannte IPS-Ereignisse insgesamt
+Spam-Aktivität insgesamt
+Gesamte Webfilter-Aktivität
+Gesamte archivierte DLP-Inhalte
+Bandbreitenverbrauch
+Top-Viren nach Name
+IPS insgesamt nach AttackID
+Durch Spam verbrauchte Bandbreite
+Wichtigste Web-Kategorien
+Top archivierter DLP-Inhaltstyp
+Top-Bandbreitenverbraucher nach Quelle
+Top-Viren nach Quelle
+IPS insgesamt nach Quelle
+Top Spam-Ziele
+Top Clients gefiltert
+Top archivierte Quellen
+Top-Bandbreitenverbraucher nach Ziel
+Top-Viren nach Ziel
+IPS insgesamt nach Ziel
+Top Spam-Quellen
+Top Server gefiltert
+Ausgelöste Ereignisse insgesamt
+Gesamte ausgelöste Ereignisse nach Kategorie
+Gesamte ausgelöste Ereignisse nach Typ
+    
+Alle FortiGates
+Alle FortiMails
+
+Mail hohe Ebene
+Mail Absender
+Mail-Empfänger
+Spam Absender
+Spam-Empfänger
+Virus Absender
+Virus-Empfänger
+Mail-Ziel-IP
+Spam-Ziel-IP
+Virus Ziel-IP
+
+
+Virus Ziel-IP
+Spam-Ziel-IP
+Mail Ziel-IP
+Mail Hohe Stufe
+Mail Absender
+Mail-Empfänger
+Spam Absender
+Spam-Empfänger
+Virus Absender
+Virus-Empfänger
+
+FortiGate-Benutzer
+Protokoll
+Art
+Aktion
+Grund
+Anfrage
+Quelle
+Ziel
+Anrufer
+Angerufene Nummer
+
+FortiGate-Benutzer
+FortiGate-Benutzer
+Anrufer
+Anrufer
+Angerufene Nummer
+Angerufene Nummer
+Website
+Quelle
+Quelle
+
+Erzeugen
+Ausgewählte Berichte generieren
+Allgemeinen zusammenfassenden Bericht generieren
+Berichte
+Bericht-Parameter
+Parameter
+Bearbeiten
+Von
+Bis
+Von:  Datum
+Bis:  Datum
+Stunde
+Kunden
+Alle Client-Firewalls
+Einstellungen
+Bericht Einstellungen für
+On-Demand-Einstellungen
+Berichtszeitplan für
+Abfrageeinstellungen für
+Einträge
+per
+Dies ist keine gültige E-Mail-Adresse.
+Ausgabe
+E-Mail
+Dateisuche / Berichte
+Der Schwachstellen-Scan wurde gestartet. Sie können die erzeugte Protokolldatei im Protokoll-Viewer anzeigen.
+Die maximale Anzahl von gleichzeitigen On-Demand-Berichten wurde erreicht.  Bitte versuchen Sie es später erneut.
+Die Berichterstattung funktioniert nicht, wenn nicht mindestens ein Gerät konfiguriert ist.  Bitte konfigurieren Sie ein Gerät unter 
+Möchten Sie die E-Mail-Adresse löschen
+Löschen
+E-Mail
+Output Handhabung
+Verkehr
+Datum und Uhrzeit
+Verwalter
+Datum
+Login-Schnittstelle
+Nachricht
+Monat
+Tag der Woche
+Stunde
+% CPU
+% Speicher
+Aktive Sitzungen
+Quelle
+Entfernte
+Gerät
+Protokollierendes Gerät
+Richtung des Datenverkehrs
+Angriffs-Richtung
+Virus-Richtung
+Dienst
+Quelle
+Quelle
+Quelle
+Quelle
+Ziel
+Host-Name
+Ziel
+Name des Ziels
+Name der Quelle
+Anwendung
+Anwendungstyp
+Anwendungsliste
+Endpunkt des Netzbetreibers
+Firewall-Version
+Nachricht
+Profil
+Seriell
+Ziel
+Dienst
+Datei Name
+Datei-Typ
+Angriffs-Typ
+URL
+Status
+Status
+Status
+URL
+Ziel
+Ziel
+Kategorie
+Disposition
+Benutzer
+Kunde(Gruppe)
+Mandant(Gruppe)
+Kategorie
+Risiko-Gruppe
+Benutzer
+Kunde
+Benutzer/Quelle
+Benutzer/Quelle
+Benutzer/Quelle
+Gruppe
+URL mit Kategorie
+Absender
+Empfänger
+Block-Kriterien
+Absender
+Empfänger
+Untertyp
+Virus-Typ
+Tunnel-Richtung
+Absender
+Beantwortet
+Dienst
+Mail
+Web-Server
+Kunde
+Server
+Absender
+Empfänger
+Nicht detailliert
+Tunnel
+Schlüsselwort
+Priorität 
+Quelle(n)
+Ziel(e)
+Quell-Port(s)
+Ziel-Port(s)
+Quell-Schnittstelle(n)
+Zielschnittstelle(n)
+IP-Protokoll
+IP-Dienst
+Ereignistyp(en)
+Ereignis Untertyp(en)
+Benutzer(s)
+Aktion(en)
+Status
+Grund (Gründe)
+Meldung
+Benutzeroberfläche(n)
+Angriffs-ID(s)
+URL(s)
+Bitte wählen Sie mindestens ein Gerät aus!
+SMTP-Server einstellen
+Bitte konfigurieren Sie den SMTP-Server, um Berichte per E-Mail zu versenden.
+
+Beschreibung
+Einzelheiten
+Angriffs ID
+Protokoll
+IPS-Status
+Kategorie
+Dateierweiterung
+Ereignis-Code
+Schweregrad
+Ereignistyp
+Status
+
+Favoriten
+
+Bericht
+Auf Anfrage
+Geplant
+Keine passenden Protokolldaten für diesen Bericht
+Keine Lizenz für den Indicators of Compromise (IOC)-Dienst
+LDAP-Abfrage fehlgeschlagen.
+
+Zeitraum
+Datenbereich
+Erstellt auf
+Geräte
+Filter
+Andere Filter
+Angefordert am
+Geplant am
+Angefangen um
+Beendet am
+Lauf dauerte
+Zeitskala
+VDom
+Benutzer
+Gruppe
+E-Mail-Domäne
+E-Mail-Richtung
+Eingehend
+Ausgehend
+Eingehend und Ausgehend
+Nur Webklicks einbeziehen
+URLs nach Stammdomäne konsolidieren
+
+Nach Tageszeit
+Nach Wochentag
+Nach Tag des Monats
+Nach Woche des Jahres
+Nach Monat
+Nach Datum
+
+Gesendete und empfangene Nachrichten insgesamt
+Spam und Nicht-Spam insgesamt
+
+Top Virus Ziel-IP
+Top Spam-Ziel-IP
+Top Mail Ziel-IP
+Top Client-IP
+Top Lokaler Benutzer
+Top Remote-Adresse
+Spam-Filter
+Dispositions-Aktion
+Oben Virus
+System Benutzer
+Oben Kunde MSISDN
+Top Absender
+Top Absender IP
+Top Lokaler Absender
+Top Remote Sender
+Top Absender MSISDN
+Top-Empfänger
+Top Local Recipient
+Top Remote-Empfänger
+Top Spam Absender
+Top Spam Domäne
+Top-Spam-IP
+Top Lokaler Spam Absender
+Lokale Top-Spam-Domäne
+Top Remote-Spam-Absender
+Top Remote-Spam-Domäne
+Anfang Spam MSISDN
+Top-Spam-Empfänger
+Top Lokaler Spam-Empfänger
+Top Remote-Spam-Empfänger
+Top Virus Absender
+Top Virus Domäne
+Top-Virus-IP
+Top Local Virus Absender
+Top Lokale Virus-Domäne
+Top Remote Virus Absender
+Top Remote Virus Domäne
+Anfang Virus MSISDN
+Top Virus-Empfänger
+Top Local Virus Recipient (Lokaler Virenempfänger)
+Top Remote-Virus-Empfänger
+
+Gesamtzahl gesendeter und empfangener Viren
+Spam und Nicht-Spam insgesamt
+
+Aufschlüsselung der Top-Virus-Ziel-IPs
+Aufschlüsselung der Top-Spam-Ziel-IPs
+Aufschlüsselung der Top Mail Ziel-IPs
+Aufschlüsselung der Top Client IPs
+Aufschlüsselung der Top Local Users
+Aufschlüsselung der Top Remote-Adressen
+Aufschlüsselung von Spam-Filtern
+Aufschlüsselung der Dispositions-Aktionen
+Aufschlüsselung der Viren
+Aufschlüsselung der Systembenutzer
+Aufschlüsselung der Top Client MSISDNs
+Aufschlüsselung der Top-Absender
+Aufschlüsselung der Top-Sender-IPs
+Aufschlüsselung der wichtigsten lokalen Absender
+Aufschlüsselung der Top-Fernabsender
+Aufschlüsselung der Top Absender MSISDNs
+Aufschlüsselung der Top-Empfänger
+Aufschlüsselung der Top Local Recipients
+Aufschlüsselung der Top Remote-Empfänger
+Aufschlüsselung der Top-Spam-Absender
+Aufschlüsselung der Top-Spam-Domains
+Aufschlüsselung der Top-Spam-IPs
+Aufschlüsselung der lokalen Top-Spam-Absender
+Aufschlüsselung der Top Local Spam Domains
+Aufschlüsselung der Top Remote-Spam-Absender
+Aufschlüsselung der Top Remote-Spam-Domains
+Aufschlüsselung der Top-Spam MSISDNs
+Aufschlüsselung der Top-Spam-Empfänger
+Aufschlüsselung der Top-Local-Spam-Empfänger
+Aufschlüsselung der Top Remote-Spam-Empfänger
+Aufschlüsselung der Top-Virus-Absender
+Aufschlüsselung der Top Virus Domains
+Aufschlüsselung der Top Virus IPs
+Aufschlüsselung der Top Local Virus Senders
+Aufschlüsselung der Top Local Virus Domains
+Aufschlüsselung der Top Remote Virus Absender
+Aufschlüsselung der Top Remote Virus Domains
+Aufschlüsselung der Top Virus MSISDNs
+Aufschlüsselung der Top-Virus-Empfänger
+Aufschlüsselung der Top Local Virus Recipients
+Aufschlüsselung der Top Remote-Virus-Empfänger
+
+
+Top abgelehnte Richtlinien
+Top verweigerte Dienste
+Top verweigerte Quellen
+Top verweigerte Ziele
+
+
+Top Erlaubte Richtlinien nach Anzahl der Firewall-Sitzungen
+Top Erlaubte Richtlinien nach Volumen
+Top-Dienste nach verweigerter Host-IP oder Benutzer
+Top erlaubte Richtlinien nach Dauer der Firewall-Sitzung
+Top erlaubte/verweigerte Richtlinien nach Anzahl der Firewall-Sitzungen
+
+Die Firewall-Richtlinien mit den meisten zugelassenen Sitzungen.
+Die Firewall-Richtlinien mit dem höchsten erlaubten Verkehrsaufkommen.
+Top-Dienste nach abgelehnter Host-IP oder Benutzer.
+Die Firewall-Richtlinien mit der höchsten erlaubten Sitzungsdauer.
+Die Firewall-Richtlinien mit den meisten erlaubten/verweigerten Sitzungen.
+
+Verkehrsaufkommen pro Gerät
+Verkehrsaufkommen nach Richtung
+Top-Dienste nach Volumen
+Wichtigste Dienste nach Volumen pro Verkehrsrichtung
+Top-Quellen nach Volumen
+Top-Dienste nach Volumen für die häufigsten Quellen
+Wichtigste Quelle-Ziel-Paare nach Volumen
+Top-Ziele nach Volumen
+Top-Dienste nach Volumen für die häufigsten Zielorte
+Top Ziel-Quelle-Paare nach Volumen
+
+Allgemeine Bandbreiten-Optimierung
+Optimierte Bandbreite nach Anwendung
+LAN-Bandbreitenzusammensetzung
+WAN-Bandbreitenzusammensetzung
+Optimierte Bandbreite nach Quelle
+Optimierte Bandbreite nach Ziel
+Optimierte Bandbreite nach Regel
+
+Gesamte Bandbreitenoptimierung nach Gerät
+Optimierte Bandbreitenanwendungen nach Gerät
+LAN-Bandbreitenzusammensetzung nach Gerät
+WAN-Bandbreitenzusammensetzung nach Gerät
+Optimierte Bandbreiten-Quellen nach Gerät
+Optimierte Bandbreitenziele nach Gerät
+Optimierte Bandbreitenregeln nach Gerät
+
+Webvolumen nach Zeitspanne
+Web-Volumen pro Traffic-Richtung
+Blockierte Webzugriffe nach Zeit
+Top-Webserver nach Volumen und Treffern
+Top-Webserver nach Verbindungen
+Top-Webserver nach Volumen
+Top-Benutzer für die am häufigsten angeforderten Webseiten
+Top Web Clients nach Verbindungen
+Top Web-Clients nach Volumen
+Top-Webserver nach Verbindungen für die meisten aktiven Clients
+Top-Webserver nach Volumen für die meisten aktiven Clients
+Top Erlaubte Websites
+Top gesperrte Websites
+Top blockierte Webbenutzer
+
+FTP-Volumen nach Zeitspanne
+FTP-Volumen nach Traffic-Richtung
+Top-FTP-Server nach Verbindungen
+Top-FTP-Server nach Volumen
+Top-FTP-Clients nach Verbindungen
+Top-FTP-Clients nach Volumen
+Top-Client-Server-Paare nach Verbindungen
+Top-Client-Server-Paare nach Volumen
+Top-FTP-Server nach Traffic-Volumen für die aktivsten Quellen
+Top-FTP-Server nach Anzahl der Aktionen für die aktivsten Quellen
+
+Terminal-Verkehrsvolumen pro Dienst (Telnet+SSH)
+Telnet-Verkehrsvolumen pro Richtung
+SSH-Verkehrsvolumen pro Richtung
+Top-Terminalserver nach Verbindungen (pro Dienst)
+Wichtigste Terminalserver nach Verkehrsvolumen (pro Dienst)
+Top-Terminal-Clients nach Verbindungen (pro Dienst)
+Top-Terminal-Clients nach Verkehrsaufkommen (pro Dienst)
+Top-Telnet-Server nach Verkehrsaufkommen für die aktivsten Clients
+Top-Telnet-Server nach Verbindungen für die aktivsten Clients
+Top SSH-Server nach Verkehrsaufkommen für die meisten aktiven Clients
+Top-SSH-Server nach Verbindungen für die meisten aktiven Clients
+
+Mail-Volumen/Größe nach Zeit
+Mail-Volumen/Größe nach Traffic-Richtung
+Top Mail Server (Verbindungen)
+Top Mail Server (nach Volumen)
+Top Mail Clients (Verbindungen)
+Top Mail Clients (nach Volumen)
+Top Mail Clients für die häufigsten Mailserver (Verbindungen)
+Top Mail Clients für die gängigsten Mailserver (nach Volumen)
+
+Top-Angriffsprotokolle
+Top-Geräte nach Anzahl der Angriffserkennungen
+Top-Angriffe
+Top-Geräte nach Anzahl der Angriffserkennungen für die häufigsten Angriffe
+Top-Quellen für die häufigsten Angriffe
+Top-Angriffe pro Gerät
+Top-Quellen für die häufigsten Ziele
+Top-Angriffe pro Verkehrsrichtung
+Top-Angriffsquellen pro Traffic-Richtung
+
+Top-Viren
+Aufschlüsselung der AntiVirus-Verstöße (Infiziert/Übergröße/Dateiname)
+AntiVirus-Aktionen pro Verstoßtyp (Infiziert/Übergröße/Dateiname)
+Top-Viren für die häufigsten Quellen
+Top-Viren für die häufigsten Zielorte (IP)
+Am häufigsten infizierte Dateien
+Am häufigsten infizierte Dateien für die häufigsten Quellen
+Am häufigsten infizierte Dateien für die häufigsten Ziele (IP)
+Top-Geräte nach AntiVirus-Verstößen
+Top-Geräte mit AntiVirus-Verstößen (Infiziert/Übergröße/Dateiname)
+Top-Protokolle mit AntiVirus-Verstößen, aufgeschlüsselt nach (infiziert/übergroß/Dateiname)
+Top-Quellen (E-Mail oder IP) mit AntiVirus-Verstößen (Infiziert/Übergröße/Dateiname)
+Top-Ziele (E-Mail oder IP) mit AntiVirus-Verstößen (Infiziert/Übergröße/Dateiname)
+Top-Quellen mit AntiVirus-Verstößen (Infiziert/Übergröße/Dateiname)
+Top-Ziele (IP) mit AntiVirus-Verstößen, aufgeschlüsselt nach (Infiziert/Übergröße/Dateiname)
+Top-Viren für die häufigsten Quellen (E-Mail oder IP)
+Top-Viren pro Traffic-Richtung
+Top-Virus-Quellen pro Verkehrsrichtung
+AV-Ereignisse nach Top-Absendern und Virusnamen (MM1)
+AV-Ereignisse nach Top-Empfängern und Virusname (MM1)
+Gesamtzahl einzigartiger infizierter MSISDN pro Land
+Infizierter Kundenstamm
+Allgemeine Trends
+Gesamtzahl der Virenabsender pro Land (MM1)
+Top-Virus pro Virusklasse
+
+Am häufigsten angefragte Webdomänen
+Am häufigsten angefragte Webseiten
+Gesamttreffer pro Status (erlaubt/gesperrt/etc)
+Gesamttreffer pro Gerät
+Top Web-Benutzer pro Gerät
+Top-Webnutzer mit Statusaufschlüsselung (erlaubt/gesperrt/etc.)
+Top-Websites mit Statusaufschlüsselung (erlaubt/gesperrt/etc.)
+Top-Webseiten mit Statusaufschlüsselung (erlaubt/gesperrt/etc.)
+Webzugriffe nach Status
+Am häufigsten angefragte Kategorien
+Gesamttreffer pro Webfiltertyp
+Am häufigsten angefragte Dateitypen
+Top blockierte Web-Risikogruppen
+Top Erlaubte Web-Risikogruppen
+Top angefragte Web-Risikogruppen
+Top-Websites für die meisten aktiven Benutzer
+Top-Websites für die meisten gesperrten Benutzer
+Top aktive Web-Benutzer
+Top-Websites+Kategorie für die aktivsten Benutzer
+Erlaubte Web-Aktivitäten über einen bestimmten Zeitraum
+Blockierte Web-Aktivitäten über einen bestimmten Zeitraum
+Top erlaubte Web-Benutzer
+Top blockierte Kategorien für die aktivsten blockierten Benutzer
+Top erlaubte Kategorien für die aktivsten Benutzer
+Top Web-Überschreibungen
+Top-Benutzer für Web-Überschreibungen
+
+
+Top-Spam-Quellen pro Gerät
+Top-Spam-Ziele pro Gerät
+Top-Spam-Blockierkriterien pro Gerät
+Top-Spam-Quellen mit Aufschlüsselung der Blockierkriterien
+Top-Spam-Quellen für die häufigsten Ziele
+MMS-Flutungen insgesamt pro Profil nach VDOM
+Mail-Übersicht (nach E-Mail-Größe)
+E-Mail-Zusammenfassung (nach E-Mail-Anzahl)
+Gesamter Spam pro Gerät (nach Anzahl der E-Mails)
+Gesamter Spam pro Gerät (nach E-Mail-Größe)
+Top-Spam-Quellen
+Top-Spam-Ziele
+
+Gesamte Ereignisse pro P2P-Protokoll
+Gesamte Ereignisse pro P2P-Protokoll (FortiOS 4.0 GA oder früher)
+Pass-/Block-Ereignisse insgesamt (alle Protokolle)
+Gesamte Pass-/Block-Ereignisse (alle Protokolle) (FortiOS 4.0 GA oder früher)
+Top erlaubte lokale P2P-Peers
+Top erlaubte lokale P2P-Peers (FortiOS 4.0 GA oder früher)
+Top blockierte lokale P2P-Peers
+Top Gesperrte P2P Lokale Peers (FortiOS 4.0 GA oder früher)
+Top Erlaubte P2P-Fern-Peers
+Top erlaubte P2P-Fern-Peers (FortiOS 4.0 GA oder früher)
+Top Blockierte P2P-Fern-Peers
+Top blockierte P2P-Fern-Peers (FortiOS 4.0 GA oder früher)
+Top Erlaubte lokale BitTorrent-Peers
+Top Erlaubte lokale BitTorrent-Peers (FortiOS 4.0 GA oder früher)
+Top blockierte lokale BitTorrent-Peers
+Top Blocked BitTorrent Local Peers (FortiOS 4.0 GA oder früher)
+Top Erlaubte lokale eDonkey-Peers
+Top Erlaubte eDonkey Local Peers (FortiOS 4.0 GA oder früher)
+Top Blockierte eDonkey Local Peers
+Top Blocked eDonkey Local Peers (FortiOS 4.0 GA oder früher)
+Top Erlaubte lokale Gnutella-Peers
+Top Erlaubte lokale Gnutella-Peers (FortiOS 4.0 GA oder früher)
+Top blockierte lokale Gnutella-Peers
+Top Blocked Gnutella Local Peers (FortiOS 4.0 GA oder früher)
+Top Erlaubte lokale KaZaa-Peers
+Top Erlaubte lokale KaZaa-Peers (FortiOS 4.0 GA oder früher)
+Top Blockierte KaZaa Lokale Peers
+Top Blocked KaZaa Local Peers (FortiOS 4.0 GA oder früher)
+Top Erlaubte lokale Skype-Peers
+Top Erlaubte lokale Skype-Peers (FortiOS 4.0 GA oder früher)
+Top Gesperrte lokale Skype-Peers
+Top Blocked Skype Local Peers (FortiOS 4.0 GA oder früher)
+Top Erlaubte WinNY Local Peers
+Top Erlaubte WinNY Local Peers (FortiOS 4.0 GA oder früher)
+Top Blockierte WinNY Local Peers
+Top blockierte WinNY Local Peers (FortiOS 4.0 GA oder früher)
+Top P2P-Quellen nach Verkehrsaufkommen
+Top P2P-Ziele nach Traffic-Volumen
+Top P2P-Protokolle für die aktivsten Quellen nach Verkehrsaufkommen
+Top P2P-Protokolle nach Verkehrsaufkommen
+
+Gesamte IM-Ereignisse pro Nachrichtenkategorie (Chat/Datei/etc)
+Top erlaubte lokale IM-Benutzer
+Top blockierte lokale IM-Benutzer
+Meistgesperrte lokale IM-Benutzer (FortiOS 4.0 GA oder früher)
+Top Erlaubte Remote-IM-Benutzer
+Top Gesperrte Remote-IM-Benutzer
+Top Gesperrte Remote-IM-Benutzer (FortiOS 4.0 GA oder früher)
+Top Lokale IM-Benutzer
+Top Lokale IM-Benutzer (FortiOS 4.0 GA oder früher)
+Lokale IM-Benutzer nach Nachrichtenkategorie (Chat/Datei/etc)
+Lokale IM-Top-Benutzer pro Nachrichtenkategorie (Chat/Datei/etc) (FortiOS 4.0 GA oder früher)
+IM-Ereignisse insgesamt pro Protokoll
+Top erlaubte lokale IM-Benutzer pro IM-Protokoll
+Top gesperrte lokale IM-Benutzer pro IM-Protokoll
+Top blockierte lokale IM-Benutzer pro IM-Protokoll (FortiOS 4.0 GA oder früher)
+Wichtigste IM-Quellen nach Nachrichten
+Wichtigste IM-Ziele nach Nachrichten
+Wichtigste IM-Quellen nach Verkehrsaufkommen
+Wichtigste IM-Ziele nach Verkehrsaufkommen
+ Top-Aktionen für die aktivsten Quellen
+ Wichtigste lokale IM-Benutzer für die aktivsten Quellen
+ Top Remote-IM-Benutzer für die aktivsten Quellen
+
+Gesamte Pass/Block-Ereignisse (alle VoIP-Protokolle)
+Gesamte Ereignisse pro VoIP-Protokoll
+VoIP-Verkehrsvolumen pro Richtung
+VoIP-Verkehrsvolumen nach Zeitspanne
+Top VoIP-Quellen nach Verkehrsaufkommen
+Top VoIP-Ziele nach Verkehrsaufkommen
+Top SIP-gerufene Nummern
+Top SIP-Benutzer nach Anzahl der Anrufe
+Top SIP-Benutzer nach Dauer
+Meistgesperrte SIP-Benutzer
+Meistgesperrte SIP-Benutzer (FortiOS 4.0 GA oder früher)
+Top blockierte SIP-Anrufer
+Top blockierte SIP-Anrufer (FortiOS 4.0 GA oder früher)
+Gesamte SIP-Anrufe nach Dauerbereichen
+Meistgerufene SCCP-Nummern
+Top SCCP-Benutzer nach Anzahl der Anrufe
+Top SCCP-Benutzer nach Dauer
+Top blockierte SCCP-Benutzer
+Top blockierte SCCP-Benutzer (FortiOS 4.0 GA oder früher)
+Top blockierte SCCP-Anrufer
+Top blockierte SCCP-Anrufer (FortiOS 4.0 GA oder früher)
+Gesamte SCCP-Anrufe nach Dauerbereichen
+
+Top VoIP-Quellen nach Verbindungen
+Top VoIP-Ziele nach Verbindungen
+Top blockierte SIP-Benutzer nach Blockierungskriterien
+Top blockierte SIP-Benutzer nach Blockierungskriterien (FortiOS 4.0 GA oder früher)
+Top blockierte SIP-Anrufer nach Blockierungskriterien
+Top blockierte SIP-Anrufer nach Blockierungskriterien (FortiOS 4.0 GA oder früher)
+Gesamte SIP-Anrufe pro Status (Start/Ende/etc)
+Gesamte SIP-Anrufregistrierungen nach Zeitspanne
+Meistgerufene SIP-Nummern für die aktivsten Anrufer
+Top blockierte SCCP-Benutzer nach Blockierungskriterien
+Meistgesperrte SCCP-Benutzer nach Sperrkriterien (FortiOS 4.0 GA oder früher)
+Top blockierte SCCP-Anrufer nach Blockierungskriterien
+Am meisten blockierte SCCP-Anrufer nach Blockierungskriterien (FortiOS 4.0 GA oder früher)
+SCCP-Anrufe insgesamt nach Status (Beginn/Ende/etc)
+Gesamte SCCP-Anrufregistrierungen nach Zeitspanne
+Top SCCP angerufene Nummern für die aktivsten Anrufer
+
+Die Aufschlüsselung des Voice-over-IP-Verkehrsvolumens nach Zeiträumen im Berichtszeitraum.  
+Das Voice-over-IP-Verkehrsvolumen für den Berichtszeitraum, aufgeschlüsselt nach Richtung. 
+Die Voice-over-IP-Quellen mit den meisten Verbindungen während des Berichtszeitraums. 
+Die Voice-over-IP-Quellen, die während des Berichtszeitraums das meiste Verkehrsaufkommen generierten. 
+Die Voice-over-IP-Ziele mit den meisten Verbindungen während des Berichtszeitraums. 
+Die Voice-over-IP-Ziele, die während des Berichtszeitraums das meiste Verkehrsaufkommen generiert haben. 
+Die im Berichtszeitraum am häufigsten gesperrten SIP-Benutzer.  
+Die am häufigsten blockierten SIP-Benutzer während des Berichtszeitraums (FortiOS 4.0 GA oder früher).  
+Die am häufigsten blockierten SIP-Benutzer, aufgeschlüsselt nach Grund. 
+Die am häufigsten blockierten SIP-Benutzer, aufgeschlüsselt nach Grund (FortiOS 4.0 GA oder früher). 
+Die am häufigsten blockierten SIP-Anrufer während des Berichtszeitraums.  
+Die am häufigsten blockierten SIP-Anrufer während des Berichtszeitraums (FortiOS 4.0 GA oder früher).  
+Die am häufigsten blockierten SIP-Anrufer, aufgeschlüsselt nach Grund. 
+Die am häufigsten blockierten SIP-Anrufer, aufgeschlüsselt nach Grund (FortiOS 4.0 GA oder früher). 
+Die am häufigsten blockierten SCCP-Benutzer im Berichtszeitraum.  
+Die im Berichtszeitraum am häufigsten blockierten SCCP-Benutzer (FortiOS 4.0 GA oder früher).  
+Die am häufigsten blockierten SCCP-Benutzer, aufgeschlüsselt nach Grund. 
+Die am häufigsten blockierten SCCP-Benutzer, aufgeschlüsselt nach Grund (FortiOS 4.0 GA oder früher). 
+Die am häufigsten blockierten SCCP-Anrufer während des Berichtszeitraums. 
+Die am häufigsten blockierten SCCP-Anrufer während des Berichtszeitraums (FortiOS 4.0 GA oder früher). 
+Die am häufigsten blockierten SCCP-Anrufer, aufgeschlüsselt nach Grund. 
+Die am häufigsten blockierten SCCP-Anrufer, aufgeschlüsselt nach Grund (FortiOS 4.0 GA oder früher). 
+Die Voice-over-IP-Aktivität während des Berichtszeitraums, aufgeschlüsselt nach Protokoll. 
+Die Voice-over-IP-Aktivität während des Berichtszeitraums, aufgeschlüsselt nach Aktionen. 
+Die Anzahl der SIP-Anrufe während des Berichtszeitraums, aufgeschlüsselt nach Status. 
+Die Anzahl der SIP-Anrufregister im Berichtszeitraum, aufgeschlüsselt nach Zeiträumen.  
+Die Dauer der SIP-Anrufe während des Berichtszeitraums, aufgeschlüsselt nach Bereichen. 
+Die am häufigsten angerufenen SIP-Nummern während des Berichtszeitraums. 
+Die SIP-Benutzer, die während des Berichtszeitraums die meisten Anrufe getätigt haben. 
+Die SIP-Nutzer, die im Berichtszeitraum die längste kumulierte Anrufdauer aufwiesen. 
+Die Anzahl der SCCP-Anrufe während des Berichtszeitraums, aufgeschlüsselt nach Status. 
+Die zeitliche Aufschlüsselung der Anzahl der SCCP-Anrufe im Berichtszeitraum.  
+Die Dauer der SCCP-Anrufe während des Berichtszeitraums, aufgeschlüsselt nach Bereichen. 
+Die am häufigsten angerufenen SCCP-Nummern während des Berichtszeitraums. 
+Die SCCP-Nutzer, die im Berichtszeitraum die meisten Anrufe getätigt haben. 
+Die SCCP-Nutzer, die im Berichtszeitraum die längste kumulierte Anrufdauer aufwiesen. 
+Die wichtigsten SIP-Anrufer während des Berichtszeitraums, aufgeschlüsselt nach angerufenen Nummern.
+Die wichtigsten SCCP-Anrufer im Berichtszeitraum, aufgeschlüsselt nach angerufenen Nummern.
+
+Top VPN-Tunnel
+VPN-Verkehrsvolumen pro Richtung
+Top VPN-Quellen
+Top VPN-Ziele
+Top VPN Peers pro Gerät (nach Verkehrsaufkommen)
+VPN-Verkehrsaufkommen pro Gerät
+Gesamte VPN-Tunnel pro Gerät
+Top VPN Peers pro Gerät (nach Anzahl der Tunnel)
+Top-Protokolle über VPN pro Gerät (nach Verkehrsaufkommen)
+IPsec-Tunnelaktivität pro Gerät
+PPTP-Tunnelaktivität pro Gerät
+L2TP-Tunnelaktivität pro Gerät
+SSL-Reverse-Proxy-Aktivität pro Gerät
+SSL-Tunnel-Aktivität pro Gerät
+
+Anzahl der überprüften Nachrichten pro Anwendung
+Volumen der gefilterten DLP-Inhalte pro Anwendung
+Volumen der gefilterten DLP-Inhalte pro Gerät
+Volumen der gefilterten DLP-Inhalte pro Ziel
+Volumen der gefilterten DLP-Inhalte pro Quelle
+
+
+Top HTTP-Server nach Volumen
+Top-HTTP-Server nach Volumen pro Virenstatus
+Top-Sender nach Volumen für jedes Mail-Protokoll
+Top-Empfänger nach Volumen für jedes Mail-Protokoll
+Top-E-Mail-Quellen für jeden Spam-Erkennungsstatus (sauber/spam/etc)
+Top-E-Mail-Ziele für jeden Spam-Erkennungsstatus (sauber/spam/etc)
+Top-E-Mail-Absender nach Verkehrsvolumen für die aktivsten Quellen
+Top-E-Mail-Absender nach Anzahl der E-Mails für die aktivste Quelle
+Top-E-Mail-Empfänger nach Traffic-Volumen für die aktivsten Quellen
+Top-E-Mail-Empfänger nach Anzahl der E-Mails für die aktivsten Quellen
+ Top-E-Mail-Empfänger nach Traffic-Volumen für die aktivsten Absender
+Top-E-Mail-Empfänger nach Anzahl der E-Mails für die aktivsten Absender
+Top-E-Mail-Absender nach Traffic-Volumen für die aktivsten Absender
+Top-E-Mail-Absender nach Anzahl der E-Mails für die aktivsten Empfänger
+Top-E-Mail-Protokolle nach Verkehrsvolumen für die aktivsten Absender
+
+Top-Anwendungen
+Top-Anwendungen nach Typ
+Top-Benutzer nach Anwendung
+Top Erlaubte Anwendungen
+Top blockierte Anwendungen
+
+Die am häufigsten verwendeten Anwendungen nach Anzahl der Ereignisse.
+Die Top-Anwendungen für die am häufigsten genutzten Anwendungstypen.
+Die Top-Benutzer der am häufigsten genutzten Anwendungen.
+Die Top erlaubten Anwendungen nach Anzahl der Ereignisse.
+Die am häufigsten blockierten Anwendungen nach Anzahl der Ereignisse.
+
+
+Top-Datenleck-Regeln
+Top Datenleck-Quellen
+Top Datenleck-Ziele
+Wichtigste Datenleck-Protokolle
+Top Data Leak Mail Absender
+Top Data Leak Mail-Empfänger
+Wichtigste Datenlecks auf Webservern
+Top-Datenleck FTP-Server
+
+
+Enthält Statistiken über die Netzwerkaktivitäten, die das FortiGate durchlaufen.
+Die Firewall-Richtlinien mit den meisten Verletzungsversuchen.
+Die Internet-Dienste mit den meisten Richtlinienverletzungsversuchen.
+Die Quellen mit den meisten Richtlinienverletzungsversuchen.
+Das Ziel mit den meisten Richtlinienverletzungsversuchen.
+
+Das Verkehrsaufkommen im Berichtszeitraum, aufgeschlüsselt nach Geräten.
+Das Verkehrsaufkommen für den Berichtszeitraum, aufgeschlüsselt nach Richtung.
+Die Internetdienste mit dem höchsten Verkehrsaufkommen im Berichtszeitraum.
+Die Internetdienste mit dem größten Verkehrsaufkommen im Berichtszeitraum, aufgeschlüsselt nach Richtung.
+Die Quellen mit dem höchsten Verkehrsaufkommen während des Berichtszeitraums.
+Die Quellen mit dem größten Verkehrsaufkommen während des Berichtszeitraums, aufgeschlüsselt nach Internetdiensten.
+Die Quellen mit dem höchsten Verkehrsaufkommen während des Berichtszeitraums, aufgeschlüsselt nach Zielorten.
+Die Zielorte mit dem größten Verkehrsaufkommen im Berichtszeitraum.
+Die Zielorte mit dem höchsten Verkehrsaufkommen im Berichtszeitraum, aufgeschlüsselt nach Internetdiensten.
+Die Ziele mit dem größten Verkehrsaufkommen während des Berichtszeitraums, aufgeschlüsselt nach Quelle.
+
+Die gesamte Bandbreitenoptimierung während des Berichtszeitraums, aufgeschlüsselt nach Zeit.
+Die Anwendungen mit der höchsten Bandbreitenoptimierung während des Berichtszeitraums.
+Die Zusammensetzung der LAN-Bandbreite während des Berichtszeitraums.
+Die Zusammensetzung der WAN-Bandbreite während des Berichtszeitraums.
+Die am meisten bandbreitenoptimierten Quellen während des Berichtszeitraums.
+Die am meisten bandbreitenoptimierten Ziele im Berichtszeitraum.
+Die am meisten bandbreitenoptimierten Regeln während des Berichtszeitraums.
+
+Die gesamte Bandbreitenoptimierung während des Berichtszeitraums, aufgeschlüsselt nach Geräten.
+Die am meisten bandbreitenoptimierten Anwendungen im Berichtszeitraum, aufgeschlüsselt nach Geräten.
+Die Zusammensetzung der LAN-Bandbreite während des Berichtszeitraums, aufgeschlüsselt nach Geräten.
+Die Zusammensetzung der WAN-Bandbreite während des Berichtszeitraums, aufgeschlüsselt nach Geräten.
+Die am meisten bandbreitenoptimierten Quellen während des Berichtszeitraums, aufgeschlüsselt nach Geräten.
+Die am meisten bandbreitenoptimierten Ziele während des Berichtszeitraums, aufgeschlüsselt nach Geräten.
+Die am meisten bandbreitenoptimierten Regeln während des Berichtszeitraums, aufgeschlüsselt nach Geräten.
+
+Die Ziele mit der längsten kumulierten Verkehrsdauer während des Berichtszeitraums.
+Die Quellen mit der längsten kumulierten Verkehrsdauer während des Berichtszeitraums.
+Die Gruppen mit der längsten kumulierten Verkehrsdauer während des Berichtszeitraums.
+Die Websites mit der längsten kumulierten Verkehrsdauer während des Berichtszeitraums.
+Die Web-Clients mit der längsten kumulierten Verkehrsdauer während des Berichtszeitraums.
+Die Webclients mit der längsten kumulierten Verkehrsdauer im Berichtszeitraum, aufgeschlüsselt nach Websites.
+Die Webclients mit der längsten geschätzten Verweildauer während des Berichtszeitraums.
+Die Clients mit dem höchsten Verkehrsaufkommen während des Berichtszeitraums.
+Die Clients mit den meisten Zugriffen während des Berichtszeitraums.
+
+Enthält Statistiken über die Web-Aktivitäten, die über FortiGate laufen.
+Das Web-Traffic-Volumen während des Berichtszeitraums, aufgelistet nach Zeit.
+Das Web-Traffic-Volumen während des Berichtszeitraums, aufgeschlüsselt nach Richtung.
+Die Anzahl der blockierten Webseitenanfragen, aufgeschlüsselt nach Zeitspanne.
+Die Websites, die während des Berichtszeitraums das meiste Verkehrsaufkommen verursachten, mit Angaben zur Anzahl der Zugriffe.
+Die Websites, die während des Berichtszeitraums am häufigsten aufgerufen wurden.
+Die Websites, die während des Berichtszeitraums das meiste Verkehrsaufkommen verursachten.
+Die Webseiten, die im Berichtszeitraum die meisten Zugriffe erhielten, aufgeschlüsselt nach Webclients.
+Die Webclients mit den meisten Webserver-Verbindungen während des Berichtszeitraums.  Beachten Sie, dass eine Verbindung mehr als einen Webseitentreffer enthalten kann.
+Die Web-Clients, die während des Berichtszeitraums das meiste Web-Traffic-Volumen generierten.
+Die Webclients mit den meisten Webserver-Verbindungen während des Berichtszeitraums, aufgeschlüsselt nach Websites.  Beachten Sie, dass eine Verbindung mehr als einen Webseitenaufruf enthalten kann.
+Die Web-Clients, die während des Berichtszeitraums das meiste Web-Traffic-Volumen generierten, aufgeschlüsselt nach Websites.
+Aufschlüsselung der aufgerufenen Websites.
+Die während des Berichtszeitraums am häufigsten zugelassenen Websites.
+Die im Berichtszeitraum am häufigsten gesperrten Websites.
+Die Nutzer mit den meisten blockierten Verbindungsversuchen zu Websites im Berichtszeitraum.
+Aufschlüsselung der zugelassenen Websites nach Quell-IP.
+
+
+Enthält Statistiken über die FTP-Aktivitäten, die durch das FortiGate laufen.
+Das FTP-Verkehrsvolumen im Berichtszeitraum, aufgeschlüsselt nach Zeit.
+Das FTP-Verkehrsvolumen während des Berichtszeitraums, aufgeschlüsselt nach Richtung.
+Die FTP-Sites, auf die während des Berichtszeitraums am häufigsten zugegriffen wurde.
+Die FTP-Sites, die während des Berichtszeitraums das meiste Traffic-Volumen erzeugten.
+Die FTP-Clients mit den meisten FTP-Server-Verbindungen während des Berichtszeitraums.
+Die FTP-Clients, die während des Berichtszeitraums das meiste Traffic-Volumen erzeugten.
+Die FTP-Clients mit den meisten Serververbindungen während des Berichtszeitraums, aufgeschlüsselt nach FTP-Servern.
+Die FTP-Clients, die während des Berichtszeitraums das meiste Datenverkehrsaufkommen generierten, aufgeschlüsselt nach FTP-Servern.
+Die FTP-Server, die während des Berichtszeitraums das meiste Verkehrsaufkommen generierten.
+Die FTP-Clients mit den meisten Serververbindungen während des Berichtszeitraums.
+
+
+Enthält Statistiken über die Terminal-Aktivitäten (SSH, Telnet), die über das FortiGate laufen.
+Das Terminal-Verkehrsvolumen, aufgeschlüsselt nach Dienst.
+Das Telnet-Verkehrsvolumen für jede Richtung.
+Das SSH-Verkehrsaufkommen für jede Richtung.
+Die Terminalserver mit den meisten Verbindungen während des Berichtszeitraums, aufgeschlüsselt nach Diensten.
+Die Terminalserver mit dem höchsten Verkehrsaufkommen während des Berichtszeitraums, aufgeschlüsselt nach Diensten.
+Die Terminal-Clients mit den meisten Verbindungen während des Berichtszeitraums, aufgeschlüsselt nach Diensten.
+Die Terminal-Clients mit dem größten Verkehrsaufkommen im Berichtszeitraum, aufgeschlüsselt nach Diensten.
+Die Telnet-Clients mit dem größten Verkehrsaufkommen im Berichtszeitraum, aufgeschlüsselt nach Servern.
+Die Telnet-Clients mit den meisten Verbindungen während des Berichtszeitraums, aufgeschlüsselt nach Servern.
+Die SSH-Clients mit dem höchsten Verkehrsaufkommen im Berichtszeitraum, aufgeschlüsselt nach Servern.
+Die SSH-Clients mit den meisten Verbindungen während des Berichtszeitraums, aufgeschlüsselt nach Server.
+
+
+Enthält Statistiken über die E-Mail-Aktivitäten, die über FortiGate laufen.
+Das Postverkehrsaufkommen während des Berichtszeitraums, aufgeschlüsselt nach Zeit.
+Das E-Mail-Verkehrsaufkommen während des Berichtszeitraums, aufgeschlüsselt nach Richtung.
+Die Mailserver, auf die während des Berichtszeitraums am häufigsten zugegriffen wurde.
+Die Mailserver, die während des Berichtszeitraums das meiste Verkehrsaufkommen erzeugten.
+Die Mail-Clients, die während des Berichtszeitraums am häufigsten auf Mail-Server zugegriffen haben.
+Die Mail-Clients, die während des Berichtszeitraums das größte Verkehrsaufkommen verursachten.
+Die Mailserver, auf die während des Berichtszeitraums am häufigsten zugegriffen wurde, aufgeschlüsselt nach Mailclients.
+Die Mailserver, die während des Berichtszeitraums das meiste Verkehrsaufkommen erzeugten, aufgeschlüsselt nach Mailclients.
+
+
+Enthält Statistiken über die Intrusion-Aktivität von FortiGate.
+Die am häufigsten für Angriffe verwendeten Protokolle.
+Die während des Berichtszeitraums am häufigsten erkannten Angriffsziele.
+Die während des Berichtszeitraums am häufigsten erkannten Angriffsarten.
+Die während des Berichtszeitraums am häufigsten erkannten Angriffsarten, aufgeschlüsselt nach Geräten.
+Die während des Berichtszeitraums am häufigsten erkannten Angriffsarten, aufgeschlüsselt nach Quelle.
+Die während des Berichtszeitraums am häufigsten angegriffenen Geräte, aufgeschlüsselt nach Gerät und Angriffskennung.
+Aufschlüsselung der IP-Adresse des Angriffsziels und der Angriffsquelle nach Anzahl der Einbruchsereignisse.
+Die Anzahl der Angriffe während des Berichtszeitraums, aufgeschlüsselt nach Richtung und Angriffs-ID.
+Die Anzahl der Angriffe während des Berichtszeitraums, aufgeschlüsselt nach Richtung und Quell-IP-Adresse.
+
+RC Enthält Statistiken über die Antivirus-Aktivität von FortiGate.
+Die am häufigsten erkannten Viren im Berichtszeitraum.
+Die häufigsten Virenquellen während des Berichtszeitraums, aufgeschlüsselt nach Virusnamen.
+Die häufigsten Virenziele während des Berichtszeitraums, aufgeschlüsselt nach dem Namen des Virus.
+Die am häufigsten infizierten Dateien während des Berichtszeitraums.
+Die häufigsten Virenquellen während des Berichtszeitraums, aufgeschlüsselt nach Namen der infizierten Dateien.
+Die häufigsten Virenziele während des Berichtszeitraums, aufgeschlüsselt nach dem Namen der infizierten Datei.
+Die Antivirus-Ereignisse für jeden Ereignistyp.
+Die Aufschlüsselung der Antiviren-Aktionen für jeden Verletzungstyp (infiziert/übergroß/Dateiname) während des Berichtszeitraums.
+Die Gesamtzahl der Antiviren-Ereignisse während des Berichtszeitraums, aufgeschlüsselt nach Geräten.
+Die Gesamtzahl der Antiviren-Ereignisse während des Berichtszeitraums, aufgeschlüsselt nach Gerät und Ereignistyp.
+Die Gesamtzahl der Antiviren-Ereignisse während des Berichtszeitraums, aufgeschlüsselt nach Internetdienst und Ereignistyp.
+Die Absender (E-Mail- oder IP-Adresse) der meisten AV-Ereignisse während des Berichtszeitraums, aufgeschlüsselt nach Ereignistyp.
+Die Empfänger (E-Mail- oder IP-Adresse) der meisten AV-Ereignisse während des Berichtszeitraums, aufgeschlüsselt nach Ereignistyp.
+Die Quellen der meisten AV-Ereignisse während des Berichtszeitraums, aufgeschlüsselt nach Ereignistyp.
+Die Ziele der meisten AV-Ereignisse während des Berichtszeitraums, aufgeschlüsselt nach Ereignistyp.
+Die häufigsten Virenquellen während des Berichtszeitraums, aufgeschlüsselt nach Virusnamen.
+Die am häufigsten entdeckten Viren für jede Verkehrsrichtung während des Berichtszeitraums.
+Die häufigsten Virenquellen während des Berichtszeitraums für jede Verkehrsrichtung.
+Die häufigsten Virenabsender (MM1) während des Berichtszeitraums, aufgeschlüsselt nach Virusnamen.
+Die häufigsten Virenempfänger (MM1) während des Berichtszeitraums, aufgeschlüsselt nach dem Namen des Virus.
+Die Gesamtzahl der infizierten MSISDN pro Schutzprofil pro VDOM während des Berichtszeitraums.
+Die Anzahl der infizierten MSISDN-Kunden im Berichtszeitraum und im letzten Zeitraum.
+Trends des Gesamttrends, aller abgefangenen MMS, entdeckter Malware und infizierter MSISDN im Berichtszeitraum im Vergleich zum letzten Zeitraum.
+Die Gesamtzahl der Virenversender (MM1) pro Schutzprofil pro VDOM im Berichtszeitraum.
+Die Anzahl des Auftretens von Virenvariationen während des Berichtszeitraums.
+
+
+Enthält Statistiken über die Webfilteraktivität von FortiGate.
+Die Ziele mit den meisten Zugriffsversuchen auf Webseiten.
+Die am häufigsten angeforderten Webseiten.
+Aufschlüsselung der Webfilter-Ereignisse nach Status.
+Aufschlüsselung der Webfilter-Ereignisse nach Geräten.
+Die Quellen mit den meisten Webseitenanfragen für jedes Gerät während des Berichtszeitraums.
+Die Quellen mit den meisten Webseitenanfragen während des Berichtszeitraums, aufgeschlüsselt nach Webfilterstatus.
+Die während des Berichtszeitraums am häufigsten angeforderten Websites, aufgeschlüsselt nach Webfilter-Status.
+Die während des Berichtszeitraums am häufigsten aufgerufenen Webseiten, aufgeschlüsselt nach Webfilterstatus.
+Die Anzahl der während des Berichtszeitraums angeforderten Webseiten, aufgeschlüsselt nach Ereignisstatus.
+
+
+Enthält Statistiken über die Anti-Spam-Aktivität von FortiGate.
+Die Spammer, die während des Berichtszeitraums für jedes Gerät die meisten Spam-E-Mails versendet haben.
+Die häufigsten Mail-Empfänger für jedes Gerät während des Berichtszeitraums.
+Die häufigsten Mail-Blockierungskriterien für jedes Gerät während des Berichtszeitraums.
+Die Spammer, die während des Berichtszeitraums die meisten Spam-E-Mails versendet haben, aufgeschlüsselt nach Blockierkriterien.
+Die häufigsten Spam-E-Mail-Empfänger während des Berichtszeitraums, aufgeschlüsselt nach Absendern.
+Die Gesamtzahl der MMS-Floodings pro Profil pro VDOM während des Berichtszeitraums.
+Das Mail-Verkehrsvolumen im Berichtszeitraum, aufgeschlüsselt nach Status.
+Die Anzahl der Mails während des Berichtszeitraums, aufgeschlüsselt nach Status.
+Die Spam-Anzahl während des Berichtszeitraums, aufgeschlüsselt nach Geräten.
+Das Spam-Verkehrsaufkommen während des Berichtszeitraums, aufgeschlüsselt nach Geräten.
+Die häufigsten Spam-Absender während des Berichtszeitraums.
+Die häufigsten Spam-Empfänger während des Berichtszeitraums.
+
+Enthält Statistiken über die von FortiGate gefilterte Instant-Messenger-Aktivität.
+Die eingerichteten IM-Sitzungen während des Berichtszeitraums, aufgeschlüsselt nach erlaubten Aktionen.
+Die lokalen IM-Benutzer mit den meisten erlaubten Sitzungen.
+Die lokalen IM-Benutzer mit den meisten blockierten Sitzungen.
+Die lokalen IM-Benutzer mit den meisten blockierten Sitzungen (FortiOS 4.0 GA oder früher).
+Die Remote-IM-Benutzer mit den meisten erlaubten Sitzungen.
+Die Remote-IM-Benutzer mit den meisten blockierten Sitzungen.
+Die Remote-IM-Benutzer mit den meisten blockierten Sitzungen (FortiOS 4.0 GA oder früher).
+Die lokalen IM-Benutzer mit den meisten Verbindungsversuchen.
+Die lokalen IM-Benutzer mit den meisten Verbindungsversuchen (FortiOS 4.0 GA oder früher).
+Die lokalen IM-Benutzer mit den meisten Verbindungsversuchen während des Berichtszeitraums, aufgeschlüsselt nach Aktionen.
+Die lokalen IM-Benutzer mit den meisten Verbindungsversuchen während des Berichtszeitraums, aufgeschlüsselt nach Aktionen (FortiOS 4.0 GA oder früher).
+Die Anzahl der aufgebauten IM-Sitzungen für jedes IM-Protokoll während des Berichtszeitraums.
+Die lokalen IM-Benutzer mit den meisten aufgebauten Sitzungen für jedes IM-Protokoll während des Berichtszeitraums.
+Die lokalen IM-Benutzer mit den meisten blockierten Sitzungen für jedes IM-Protokoll während des Berichtszeitraums.
+Die lokalen IM-Benutzer mit den meisten blockierten Sitzungen für jedes IM-Protokoll während des Berichtszeitraums (FortiOS 4.0 GA oder früher).
+Die lokalen IM-Benutzer mit den meisten Nachrichten während des Berichtszeitraums.
+Die Remote-IM-Benutzer mit den meisten Nachrichten während des Berichtszeitraums.
+Die lokalen IM-Benutzer mit dem höchsten Verkehrsaufkommen während des Berichtszeitraums.
+Die entfernten IM-Benutzer mit dem höchsten Verkehrsaufkommen während des Berichtszeitraums.
+Die lokale IP mit den meisten Aktionen während des Berichtszeitraums
+Die lokale IP mit den aktivsten lokalen Nutzern während des Berichtszeitraums.
+Die lokale IP-Adresse mit den aktivsten Remote-Benutzern während des Berichtszeitraums.
+
+Enthält Statistiken über die von FortiGate gefilterten Peer-to-Peer-Aktivitäten (P2P).
+Die Anzahl der im Berichtszeitraum aufgebauten P2P-Sitzungen, aufgeschlüsselt nach Protokoll.
+Die Anzahl der im Berichtszeitraum aufgebauten P2P-Sitzungen, aufgeschlüsselt nach Protokoll (FortiOS 4.0 GA oder früher).
+Die aufgebauten P2P-Sitzungen, aufgeschlüsselt nach Aktionstyp.
+Die aufgebauten P2P-Sitzungen, aufgeschlüsselt nach Aktionstypen (FortiOS 4.0 GA oder früher).
+Die lokalen P2P-Peers mit den meisten zugelassenen Sitzungen.
+Die lokalen P2P-Peers mit den meisten erlaubten Sitzungen (FortiOS 4.0 GA oder früher).
+Die lokalen P2P-Peers mit den meisten blockierten Sitzungen.
+Die lokalen P2P-Peers mit den meisten blockierten Sitzungen (FortiOS 4.0 GA oder früher).
+Die entfernten P2P-Peers mit den meisten zugelassenen Sitzungen.
+Die entfernten P2P-Peers mit den meisten erlaubten Sitzungen (FortiOS 4.0 GA oder früher).
+Die entfernten P2P-Peers mit den meisten blockierten Sitzungen.
+Die entfernten P2P-Peers mit den meisten blockierten Sitzungen (FortiOS 4.0 GA oder früher).
+Die lokalen BitTorrent-Peers mit den meisten erlaubten Sitzungen.
+Die lokalen BitTorrent-Peers mit den meisten erlaubten Sitzungen (FortiOS 4.0 GA oder früher).
+Die lokalen BitTorrent-Peers mit den meisten blockierten Sitzungen.
+Die lokalen BitTorrent-Peers mit den meisten blockierten Sitzungen (FortiOS 4.0 GA oder früher).
+Die lokalen eDonkey-Peers mit den meisten erlaubten Sitzungen.
+Die lokalen eDonkey-Peers mit den meisten erlaubten Sitzungen (FortiOS 4.0 GA oder früher).
+Die lokalen eDonkey-Peers mit den meisten blockierten Sitzungen.
+Die lokalen eDonkey-Peers mit den meisten blockierten Sitzungen (FortiOS 4.0 GA oder früher).
+Die lokalen Gnutella-Peers mit den meisten erlaubten Sitzungen.
+Die lokalen Gnutella-Peers mit den meisten erlaubten Sitzungen (FortiOS 4.0 GA oder früher).
+Die lokalen Gnutella-Peers mit den meisten blockierten Sitzungen.
+Die lokalen Gnutella-Peers mit den meisten blockierten Sitzungen (FortiOS 4.0 GA oder früher).
+Die lokalen KaZaa-Peers mit den meisten erlaubten Sitzungen.
+Die lokalen KaZaa-Peers mit den meisten erlaubten Sitzungen (FortiOS 4.0 GA oder früher).
+Die lokalen KaZaa-Peers mit den meisten blockierten Sitzungen.
+Die lokalen KaZaa-Peers mit den meisten blockierten Sitzungen (FortiOS 4.0 GA oder früher).
+Die lokalen Skype-Peers mit den meisten erlaubten Sitzungen.
+Die lokalen Skype-Peers mit den meisten erlaubten Sitzungen (FortiOS 4.0 GA oder früher).
+Die lokalen Skype-Peers mit den meisten blockierten Sitzungen.
+Die lokalen Skype-Peers mit den meisten blockierten Sitzungen (FortiOS 4.0 GA oder früher).
+Die lokalen WinNY-Peers mit den meisten erlaubten Sitzungen.
+Die lokalen WinNY-Peers mit den meisten erlaubten Sitzungen (FortiOS 4.0 GA oder früher).
+Die lokalen WinNY-Peers mit den meisten blockierten Sitzungen.
+Die lokalen WinNY-Peers mit den meisten blockierten Sitzungen (FortiOS 4.0 GA oder früher).
+Die lokalen P2P-Peers mit dem höchsten Verkehrsaufkommen.
+Die entfernten P2P-Peers mit dem größten Verkehrsaufkommen.
+Die lokale IP mit den meisten Protokollen und dem größten Verkehrsaufkommen im Berichtszeitraum.
+Die Protokolle mit dem höchsten Verkehrsaufkommen im Berichtszeitraum.
+
+Die Dauerverteilung der einzelnen Voice-over-IP-Anrufe für SIP-Protokolle im Berichtszeitraum.
+
+Enthält Statistiken über die FortiGate-VPN-Aktivität.
+Die Anzahl der VPN-Tunnel für jedes Gerät während des Berichtszeitraums.
+Das VPN-Verkehrsvolumen für jedes Gerät während des Berichtszeitraums.
+Die VPN-Peers mit den meisten Tunneln für jedes Gerät während des Berichtszeitraums.
+Die VPN-Peers mit dem höchsten Verkehrsaufkommen für jedes Gerät im Berichtszeitraum.
+Die Internet-Dienste mit dem größten Verkehrsaufkommen für jedes Gerät im Berichtszeitraum.
+Die Quellen mit dem größten VPN-Verkehrsvolumen im Berichtszeitraum.
+Die Ziele mit dem größten VPN-Verkehrsaufkommen im Berichtszeitraum.
+Das VPN-Verkehrsvolumen während des Berichtszeitraums, aufgeschlüsselt nach Richtung.
+Die VPN-Tunnel mit dem höchsten Verkehrsaufkommen während des Berichtszeitraums.
+Die Statistiken zur IPsec-Tunnelaktivität für jedes Gerät während des Berichtszeitraums.
+Die Statistiken zur PPTP-Tunnelaktivität für jedes Gerät während des Berichtszeitraums.
+Die Statistiken zur L2TP-Tunnelaktivität für jedes Gerät während des Berichtszeitraums.
+Die Statistiken zur SSL-Reverse-Proxy-Aktivität für jedes Gerät während des Berichtszeitraums.
+Die Statistiken zur SSL-Tunnelaktivität für jedes Gerät während des Berichtszeitraums.
+
+Enthält Statistiken über die von FortiGate gefilterte DLP-Aktivität.
+Die Einheiten der gefilterten DLP-Inhalte, aufgeschlüsselt nach Internet-Service.
+Das Volumen des gefilterten DLP-Inhaltsverkehrs, aufgeschlüsselt nach Internetdienst.
+Der Datenverkehr der gefilterten DLP-Inhalte, aufgeschlüsselt nach Geräten.
+Der Verkehr von gefilterten DLP-Inhalten, aufgeschlüsselt nach Zielort.
+Der Verkehr von gefilterten DLP-Inhalten, aufgeschlüsselt nach Quelle.
+
+Aufschlüsselung des Web-Datenverkehrs nach Servern
+Aufschlüsselung des Web-Verkehrs nach Virenstatus und Servern
+Das E-Mail-Verkehrsvolumen im Berichtszeitraum, aufgeschlüsselt nach E-Mail-Diensten (POP3/POP3S, SMTP/SMTPS, IMAP/IMAPS usw.) und nach Absendern.
+Das E-Mail-Verkehrsvolumen während des Berichtszeitraums, aufgeschlüsselt nach E-Mail-Diensten (POP3/POP3S, SMTP/SMTPS, IMAP/IMAPS usw.) und nach E-Mail-Empfängern.
+Das E-Mail-Verkehrsaufkommen während des Berichtszeitraums, aufgeschlüsselt nach Filterstatus und Absender.
+Das E-Mail-Verkehrsvolumen während des Berichtszeitraums, aufgeschlüsselt nach Filterstatus und E-Mail-Empfänger.
+Die lokale IP und der E-Mail-Absender mit dem Verkehrsaufkommen während des Berichtszeitraums.
+Die lokale IP und der E-Mail-Absender mit den Verbindungen während des Berichtszeitraums.
+Die lokale IP und der E-Mail-Empfänger mit dem Verkehrsaufkommen während des Berichtszeitraums.
+Die lokale IP und der E-Mail-Empfänger mit der Anzahl der E-Mails während des Berichtszeitraums.
+ Der E-Mail-Empfänger und E-Mail-Absender mit dem Verkehrsaufkommen während des Berichtszeitraums.
+Der E-Mail-Empfänger und E-Mail-Absender mit der Anzahl der E-Mails im Berichtszeitraum.
+Der E-Mail-Empfänger und E-Mail-Absender mit dem Verkehrsaufkommen im Berichtszeitraum.
+Der E-Mail-Empfänger und E-Mail-Versender mit der Anzahl der E-Mails im Berichtszeitraum.
+Die lokale IP und die E-Mail-Protokolle mit dem Verkehrsaufkommen während des Berichtszeitraums.
+
+Enthält Statistiken über die FortiGate-Datenleckaktivität.
+Die am häufigsten ausgelösten Regeln zur Verhinderung von Datenlecks während des Berichtszeitraums.
+Die häufigsten Quellen für Datenlecks während des Berichtszeitraums.
+Die häufigsten Ziele für Datenlecks während des Berichtszeitraums.
+Die Protokolle, die während des Berichtszeitraums die meisten Datenlecks verursachten.
+Die E-Mail-Absender, die im Berichtszeitraum die meisten Datenlecks verursachten.
+Die Mail-Empfänger, die im Berichtszeitraum die meisten Datenlecks verursachten.
+Die Webserver, die während des Berichtszeitraums die meisten Datenlecks verursachten.
+Die FTP-Server, die während des Berichtszeitraums die meisten Datenlecks verursachten.
+
+
+Top-Ziele nach Dauer der Firewall-Sitzung
+Top-Quellen nach Firewall-Sitzungsdauer
+Wichtigste Benutzergruppen nach Firewall-Sitzungsdauer
+Top-Webserver nach Firewall-Sitzungsdauer
+Top-Web-Clients nach Firewall-Sitzungsdauer
+Top-Webserver nach Firewall-Sitzungsdauer für die meisten aktiven Clients
+Top-Webclients (Zeit durchsuchen)
+Top-Websites nach Verkehrsvolumen für die aktivsten Quellen
+Top-Websites nach Hits für die aktivsten Quellen
+
+Top-Angriffe pro Kategorie (Signatur/Anomalie)
+Top-Angriffe pro Gegenmaßnahme
+Angriffe nach Zeitspanne
+Top-Angriffsquellen
+Top-Angriffsziele
+Top-Angriffe für die häufigsten Protokolle
+Top-Angriffe für die häufigsten Ziele
+
+Wichtigste Ereignisse (nach Protokoll-ID)
+Gesamtzahl der Ereignisse pro Gerät
+Gesamtzahl der Ereignisse pro Schweregrad
+Gesamtzahl der Ereignisse pro Softwaremodul
+Wichtigste Notfallereignisse (nach Protokoll-ID)
+Wichtigste kritische Ereignisse (nach Protokoll-ID)
+Wichtigste Alarmereignisse (nach Protokoll-ID)
+Wichtigste Fehlerereignisse (nach Protokoll-ID)
+Wichtigste Warnereignisse (nach Log ID)
+Top Benachrichtigungsereignisse (nach Log ID)
+Wichtigste Informationsereignisse (nach Log ID)
+Wichtigste Ereignisse pro Gerät (nach Protokoll-ID)
+Wichtigste Ereignisschweregrade pro Gerät
+Wichtigste Softwaremodul-Ereignisse pro Gerät
+Allgemeine MMS-Verkehrsmessungen
+CPU-Nutzung nach Zeitspanne
+Speichernutzung nach Zeitraum
+Aktive Firewall-Sitzungen nach Zeitspanne
+Zusammenfassung der Systemverwaltung
+Details zur Systemverwaltung
+Gesamte Virenbenachrichtigungen pro Land
+
+Top infizierte Dateierweiterungen
+Top-Virus-Quellen
+Top-Virus-Ziele
+Top infizierte Dateierweiterungen über IMAP
+Top-Virus-Quellen über IMAP
+Top-Virus-Ziele über IMAP
+Top infizierte Dateierweiterungen über POP3
+Top-Virus-Quellen über POP3
+Top-Virus-Ziele über POP3
+Top infizierte Dateierweiterungen über FTP
+Top-Virus-Quellen über FTP
+Top-Virus-Ziele über FTP
+Top infizierte Dateierweiterungen über HTTP
+Top-Virus-Quellen über HTTP
+Top-Virus-Ziele über HTTP
+Top infizierte Dateierweiterungen über SMTP
+Top-Virus-Quellen über SMTP
+Top-Virus-Ziele über SMTP
+Top-Virus-Empfänger über E-Mail
+Wichtigste Virenprotokolle
+
+Netzwerk-Scan
+Enthält die Ergebnisse von FortiGate-Netzwerk-Scans.
+Schwachstellen nach Kategorie
+Nach Kategorien geordnete Liste der gescannten Sicherheitsrisiken im Netzwerk.
+Schwachstellen nach Schweregrad
+Gescannte Sicherheitsrisiken im Netzwerk, aufgelistet nach Schweregrad.
+Am häufigsten gescannte Betriebssysteme
+Die wichtigsten von FortiGate gescannten Betriebssysteme.
+Am häufigsten gescannte Dienste
+Die wichtigsten von FortiGate gescannten Dienste.
+Top gescannte TCP-Dienste
+Top TCP-Dienste, die von FortiGate gescannt wurden.
+Top gescannte UDP-Dienste
+Top UDP Dienste, die von FortiGate gescannt wurden.
+
+Enthält Statistiken über die Ereignisaktivität von FortiGate.
+Die Anzahl der Angriffe für jede Angriffskategorie während des Berichtszeitraums, aufgeschlüsselt nach Angriffstyp.
+Die Anzahl der Angriffe während des Berichtszeitraums, aufgeschlüsselt nach Angriffsstatus und Angriffstyp.
+Die Aufschlüsselung der Anzahl der erkannten Angriffe nach Zeiträumen.
+Die häufigsten Angriffsquellen während des Berichtszeitraums.
+Die am häufigsten angegriffenen Ziele im Berichtszeitraum.
+Die Protokolle mit den meisten Angriffen während des Berichtszeitraums, aufgeschlüsselt nach Angriffsarten.
+Die im Berichtszeitraum am häufigsten angegriffenen Ziele, aufgeschlüsselt nach Angriffsarten.
+
+Die im Berichtszeitraum am häufigsten aufgetretenen Ereignisse.
+Dieser Bericht enthält Informationen über die Gesamtzahl der auf jeder Firewall ausgelösten Ereignisse.
+Die am häufigsten auftretenden Ereignisschweregrade im Berichtszeitraum.
+Die im Berichtszeitraum am häufigsten aufgetretenen Ereignistypen.
+Die am häufigsten auftretenden kritischen Ereignisse.
+Die am häufigsten auftretenden Warnereignisse.
+Die am häufigsten auftretenden Informationsereignisse.
+Die am häufigsten auftretenden Notfallereignisse.
+Die am häufigsten auftretenden Warnereignisse.
+Die am häufigsten auftretenden Fehlerereignisse.
+Die am häufigsten auftretenden Benachrichtigungsereignisse.
+Dieser Bericht enthält Informationen über die Ereignisse, die auf jeder Firewall ausgelöst wurden.
+Dieser Bericht enthält Informationen über die ausgelösten Ereignisse nach Gerät und Schweregrad.
+Dieser Bericht enthält Informationen über die Arten von Ereignissen, die auf einem bestimmten System auftreten.
+Dieser Bericht enthält Informationen über insgesamt gescannte Nachrichten, infizierte/blockierte Nachrichten, abgefangene Nachrichten und verdächtige Nachrichten für den betreffenden Zeitraum.
+Dieser Bericht zeigt die CPU-Auslastung von FortiGate nach Zeit an.
+Dieser Bericht zeigt die FortiGate-Speicherauslastung nach Zeit an.
+Dieser Bericht zeigt die Anzahl der aktiven FortiGate-Sitzungen nach Zeit an.
+Audit aller administrativen Aktivitäten während des Berichtszeitraums.
+Detailliertes Audit aller administrativen Aktivitäten während des Berichtszeitraums.
+Die Gesamtzahl der Virenbenachrichtigungen pro Schutzprofil pro VDOM im Berichtszeitraum.
+
+Die am häufigsten infizierten Dateierweiterungen.
+Die häufigsten Quellen von Viren.
+Die häufigsten Zielorte von Viren.
+Die am häufigsten infizierten Dateierweiterungen über IMAP/IMAPS.
+Die häufigsten Quellen von Viren über IMAP/IMAPS.
+Die häufigsten Ziele von Viren über IMAP/IMAPS.
+Die am häufigsten infizierten Dateierweiterungen über POP3/POP3S.
+Die häufigsten Quellen von Viren über POP3/POP3S.
+Die häufigsten Zielorte von Viren über POP3/POP3S.
+Die am häufigsten infizierten Dateierweiterungen über FTP.
+Die häufigsten Quellen von Viren über FTP.
+Die häufigsten Zielorte von Viren über FTP.
+Die am häufigsten infizierten Dateierweiterungen über HTTP.
+Die häufigsten Quellen von Viren über HTTP.
+Die häufigsten Ziele von Viren über HTTP.
+Die am häufigsten infizierten Dateierweiterungen über SMTP/SMTPS.
+Die häufigsten Quellen von Viren über SMTP/SMTPS.
+Die häufigsten Zielorte von Viren über SMTP/SMTPS.
+Die häufigsten Empfänger vireninfizierter Mails während des Berichtszeitraums.
+Die Protokolle mit den häufigsten Vireninfektionen.
+
+Die während des Berichtszeitraums am häufigsten angegriffenen Ziele, aufgeschlüsselt nach Quelle.
+Die am häufigsten angefragten Kategorien im Berichtszeitraum.
+Aufschlüsselung der Kategorie nach Treffern
+Die Anzahl der Web-Treffer für jeden Filtertyp
+Die während des Berichtszeitraums am häufigsten angeforderten Dateitypen.
+Die während des Berichtszeitraums am häufigsten blockierten Web-Risikogruppen.
+Die während des Berichtszeitraums am häufigsten aufgerufenen Web-Risikogruppen.
+Die am häufigsten angeforderten Web-Risikogruppen während des Berichtszeitraums.
+Die Kunden mit den meisten Webseitenanfragen während des Berichtszeitraums, aufgeschlüsselt nach Websites.
+Die Kunden mit den meisten blockierten Webseitenanfragen während des Berichtszeitraums, aufgeschlüsselt nach Websites.
+Die Kunden mit den meisten Webseitenanfragen während des Berichtszeitraums.
+Die Kunden mit den meisten Webseitenanfragen während des Berichtszeitraums, aufgeschlüsselt nach Websites.
+Die Anzahl der Webseitenanfragen, aufgeschlüsselt nach Zeit.
+Die Anzahl der blockierten Webseitenanfragen, aufgelistet nach Zeit.
+Die Quellen mit den meisten erlaubten Webseitenanfragen während des Berichtszeitraums.
+Die Quellen mit den meisten blockierten Webseitenanfragen während des Berichtszeitraums, aufgeschlüsselt nach Kategorien.
+Die Quellen mit den meisten erlaubten Webseitenanfragen während des Berichtszeitraums, aufgeschlüsselt nach Kategorien.
+Die Websites, die während des Berichtszeitraums am häufigsten übergangen wurden.
+Die Quellen mit den meisten außer Kraft gesetzten Webseitenanfragen während des Berichtszeitraums, aufgeschlüsselt nach Websites.
+
+FortiClient Intrusion-Aktivität
+FortiClient-AntiVirus-Aktivität
+FortiClient-Netzwerkaktivität
+FortiClient WebFilter-Aktivität
+FortiClient-Anti-Spam-Aktivität
+
+FortiClient Eindringlingsaktivität
+FortiClient-AntiVirus-Aktivität
+FortiClient-Netzwerkaktivität
+FortiClient-WebFilter-Aktivität
+FortiClient Anti-Spam-Aktivität
+
+Wichtigste Quellen von Angriffen
+Top-Ziele von Angriffen
+Wichtigste Angriffe nach Protokoll
+Top-Angriffe nach Ziel
+
+Top-Viren
+Top Dateien
+Top verweigerte Quellen
+Top verweigerte Ziele
+
+Top blockierte Websites
+Meistbesuchte Websites
+Top blockierte Websites nach Benutzer
+Top besuchte Websites nach Benutzer
+
+Meistgesperrte E-Mail-Absender
+Top blockierte Mail-Empfänger
+
+Dieser Bericht enthält Informationen über die Quellen von Angriffen auf die Firewall.
+Dieser Bericht enthält die wichtigsten Angriffsziele.
+Dieser Bericht enthält Informationen über die wichtigsten Angriffsarten auf Ihrem Gerät und die Art der Angriffe für jedes Protokoll.
+Dieser Bericht enthält Informationen über die wichtigsten Angriffstypen auf Ihrem Gerät und die wichtigsten Angriffstypen nach Ziel.
+
+Namen der Top-Viren
+Top infizierte Dateinamen
+Wichtigste Versuche, eine auf dem FortiClient konfigurierte Richtlinie zu verletzen, nach Quell-IP des Versuchs
+Die häufigsten Versuche, eine auf dem FortiClient konfigurierte Richtlinie zu verletzen, aufgeschlüsselt nach der Ziel-IP des Versuchs
+
+Aufschlüsselung der blockierten Websites.
+Aufschlüsselung der besuchten Websites.
+Aufschlüsselung der blockierten Websites nach Benutzer.
+Aufschlüsselung der besuchten Websites nach Benutzer.
+
+Aufschlüsselung der am häufigsten blockierten Absender-E-Mail-Adressen.
+Aufschlüsselung der am häufigsten blockierten Empfänger-E-Mail-Adressen.
+
+Eigenschaften
+Berichtskriterien
+Kategorie des Berichts
+Profil speichern
+On Demand Report(run once)
+Report Processing
+%s">Report Browse</a> when it is ready.
+User Analysis
+Device Analysis
+Group
+LDAP Name
+Last day
+Last 7 days
+Last 30 days
+Oldest in logs
+Time Period
+Virtual Domain
+Report Granularity
+Audit-Abfrageergebnisse auf Top beschränken
+Ergebnisse auf den Anfang beschränken
+Der Wert der Ergebnisbegrenzung sollte eine Zahl zwischen 1 und 65535 sein.
+Alle Ergebnisse anzeigen
+Angeben von
+Quell-IP/IP-Bereich
+(Format: A.B.C.D, A.B.C.D-H, A.B.C.D-E.F.G.H ...)
+Kategorie-Filter
+Satz von Kategorien
+Schließt Protokolle ein, die mit den folgenden ausgewählten Kategorien übereinstimmen
+ Audit-Bericht Sortieren nach
+Zugriffszeit
+Kategorie
+Benutzername (in Protokollen)
+Lokaler Benutzer
+Gruppenname
+Lokale Gruppe
+Benutzerliste
+Aktives Verzeichnis
+Bitte konfigurieren Sie die Benutzerinformationen von Report Criteria.
+Bitte konfigurieren Sie die Gruppeninformationen für die Berichtskriterien.
+Der Benutzername in den Protokollen muss mit einem Buchstaben beginnen.
+Der Benutzername in den Protokollen enthält Leerzeichen.
+Der Benutzername in den Protokollen enthält ungültige Zeichen.
+Der Gruppenname in den Protokollen muss mit einem Buchstaben beginnen.
+Der Gruppenname in den Protokollen enthält Leerzeichen.
+Der Gruppenname in den Protokollen enthält ungültige Zeichen.
+
+Zusammenfassung
+Geschätzte Suchzeit
+Aufgerufene Kategorien nach Treffern
+Blockierte Kategorien nach Treffern
+Top Erlaubte Kategorien
+Top blockierte Kategorien
+Erlaubte Aktivität nach Timeslice
+Blockierte Aktivität nach Zeitscheiben
+WebFilter-Ereignisse nach Zeitscheiben und Status
+Alle Risiken
+Gesperrte Risiken
+Spam-Aktivität nach Zeitabschnitt
+Ausgehende E-Mail-Aktivität nach Zeitraum (SMTP)
+Posteingangsaktivität nach Zeitraum (POP3/IMAP)
+
+Ausführlich
+Top Client-Anfragen an erlaubte Sites
+Top-Client-Versuche bei gesperrten Sites
+Top-Client-Versuche bei erlaubten Sites nach Kategorie
+Top-Client-Versuche bei blockierten Sites nach Kategorie
+WebFilter-Ereignisse nach Top-Zielen und Status
+WebFilter-Ereignisse nach Zeitabschnitt und Ziel
+WebFilter Ereignisse nach Zeitscheiben und URL
+
+Prüfung
+Alle gesperrten Websites nach URL-Bewertung
+Alle erlaubten Websites nach URL-Bewertung
+Websites nach gesperrten Unterkategorien
+Sites nach erlaubten Unterkategorien
+Alle angeforderten Websites nach Zeitspanne
+
+Aufschlüsselung der geschätzten Besuchszeit
+Aufschlüsselung der aufgerufenen Kategorien nach Treffern
+Aufschlüsselung der gesperrten Kategorien nach Treffern
+Die im Berichtszeitraum am häufigsten zugelassenen Webkategorien
+Die am häufigsten gesperrten Webkategorien im Berichtszeitraum
+Aufschlüsselung der erlaubten Aktivitäten nach Zeitabschnitten
+Aufschlüsselung der gesperrten Aktivitäten nach Zeitabschnitten
+Aufschlüsselung der WebFilter-Ereignisse nach Zeitscheiben und Status
+Aufschlüsselung aller Risiken
+Aufschlüsselung der blockierten Risiken
+Aufschlüsselung der Spam-Aktivitäten
+Aufschlüsselung der Postausgangsaktivität nach Zeitscheiben (SMTP/SMTPS)
+Aufschlüsselung der Posteingangsaktivitäten nach Zeitabschnitten (POP3/POP3S/IMAP/IMAPS)
+
+Aufschlüsselung der wichtigsten Client-Anfragen an zugelassene Sites
+Aufschlüsselung der Top-Client-Versuche an gesperrte Sites
+Aufschlüsselung der Top-Client-Versuche bei erlaubten Sites nach Kategorie
+Aufschlüsselung der Top-Client-Versuche bei gesperrten Sites nach Kategorie
+Aufschlüsselung der WebFilter-Ereignisse nach Top-Zielen und Status
+Aufschlüsselung der WebFilter-Ereignisse nach Zeitscheiben und Ziel
+Aufschlüsselung der WebFilter-Ereignisse nach Zeitscheiben und URL
+
+Aufschlüsselung der URL-bewerteten Sites nach gesperrten Kategorien
+Aufschlüsselung der URL-bewerteten Sites nach erlaubten Kategorien
+Aufschlüsselung der Sites nach gesperrten Unterkategorien
+Aufschlüsselung der Sites nach erlaubten Unterkategorien
+Aufschlüsselung der Sites nach Zugriffszeit
+
+Unbewertet
+Potenziell haftbar
+Erwachsener/reifer Inhalt
+Potenziell unproduktiv
+Bandbreitenverzehrend
+Sicherheitsrisiko
+Allgemeines Interesse - Persönlich
+Allgemeines Interesse - Geschäftlich
+Andere
+Drogenmissbrauch
+Alternative Überzeugungen
+Hacken
+Illegal oder unethisch
+Diskriminierung
+Explizite Gewalt
+Abtreibung
+Andere Materialien für Erwachsene
+Interessenvertretungs-Organisationen
+Glücksspiel
+Extremistische Gruppen
+Nacktheit und Risken
+Pornografie
+Partnersuche
+Waffen (Verkauf)
+Werbung
+Brokerage und Handel
+Freeware und Software-Downloads
+Spiele
+Webbasierte E-Mail
+Dateifreigabe und -speicherung
+Streaming Media und Herunterladen
+Bösartige Websites
+Unterhaltung
+Kunst und Kultur
+Bildung
+Finanzen und Bankwesen
+Gesundheit und Wellness
+Arbeitssuche
+Medizin
+Nachrichten und Medien
+Soziale Netzwerke
+Politische Organisationen
+Referenz
+Globale Religion
+Suchmaschinen und Portale
+Einkaufen und Auktion
+Allgemeine Organisationen
+Gesellschaft und Lebensstil
+Sport
+Reisen
+Persönliche Fahrzeuge
+Unternehmen
+Information und Computersicherheit
+Behörden und juristische Organisationen
+Informationstechnologie
+Bewaffnete Streitkräfte
+Dynamischer Inhalt
+Bedeutungslose Inhalte
+Webhosting
+Marihuana
+Folklore
+Proxy-Vermeidung
+Phishing
+Plagiat
+Sexualerziehung
+Alkohol
+Tabak
+Dessous und Badeanzüge
+Sportjagd und Kriegsspiele
+Web-Chat
+Sofortige Nachrichtenübermittlung
+Newsgroups und Nachrichtenbretter
+Digitale Postkarten
+Peer-to-Peer-Dateiaustausch
+Internet-Radio und -TV
+Internet-Telefonie
+Kindererziehung
+Immobilien
+Restaurant und Essen gehen
+Persönliche Websites und Blogs
+Sichere Websites
+Inhaltsserver
+Kindesmissbrauch
+Webbasierte Anwendungen
+Domain-Parking
+Spam-URLs
+Persönlicher Datenschutz
+
+Zusammenfassung Layout
+
+Anpassen der Liste
+Diagramm anpassen
+Kolumnen
+Verfügbare Diagramme zum Hinzufügen
+Diagramm bearbeiten
+Name des Diagramms
+Chart-Stil
+Spalte
+Linie
+Torte
+TopN
+Bitte geben Sie eine Zahl für das Feld TopN ein.
+TopN muss eine Zahl sein.
+Der gültige Bereich für TopN für diesen Diagrammtyp ist
+Keine Diagramme mehr vorhanden.
+Sind Sie sicher, dass Sie dieses Diagramm aus dem Layout entfernen möchten?
+
+Geräteliste
+Name
+SN
+IP-Adresse
+Unbekannt
+
+Gesamt
+Zwischensumme
+Andere
+Sonstige
+% der Gesamtsumme
+% der Zwischensumme
+
+Benutzer(oder IP)
+Hostname (oder IP)
+Hostname (oder MAC)
+Kategorie
+Website
+Name der Malware
+Malware-Typ
+Name (oder IP) des Opfers
+Standort-zu-Standort-IPsec-Tunnel
+Zuerst verwendet
+Einwahl-IPsec-Tunnel
+Aggregierte gewählte Zeit (HH:MM:SS)
+Datum
+Gesamtzahl der Fehlversuche
+Gesamtzahl der Verbindungen
+Gesamtdauer der Verbindung(HH:MM:SS)
+Tunnel
+Tunnel-Betriebszeit(hh:mm:ss)
+Verbindungszeit(hh:mm:ss)
+Gesamtzahl der Anmeldungen
+Gesamtzahl der Konfigurationsänderungen
+Gesamtdauer (hh:mm:ss)
+Anmeldequelle
+Gesamtzahl der fehlgeschlagenen Anmeldungen
+Schweregrad
+Ereignisname (Beschreibung)
+Stufe
+Schwachstelle
+Sitzung
+Kategorie der Anwendung
+Richtlinien-ID
+Zusammenfassung
+Statistik
+Erhöhte Punktzahl
+Malware-Quelle
+Hostname (oder IP)
+Spyware-Opfer
+Spyware-Name
+Adware-Opfer
+Adware-Name
+Typ des Eindringens
+Prozentsatz der Gesamtangriffe
+Name des Eindringlings
+Anzahl der Angriffe
+AP-Status
+Prozentsatz
+AP-Status
+Nächstgelegener AP
+Geräte-ID
+Entfernter Host
+Durchsuchungszeit(hh:mm:ss)
+Teilnetz
+Treffer
+Zeitstempel
+Stunde des Tages
+Bandwdith
+Dauer (MIN)
+Merkmal
+OS-Typ
+FCT-Version
+Profil
+Name
+Endpunkt-Profil
+Anzahl der Bedrohungen
+Prozentsatz von Gesamt
+Anzahl der Erkennungen
+Anzahl
+Beschreibung
+Name des Geräts
+Anzahl der Geräte
+Risikostufe
+Schwachstellen
+Schweregrad
+OS-Version
+Anwendungen
+CVE# Anzahl
+Name der Sicherheitsanfälligkeit
+Anwendung/Produkt
+Maßnahmen zur Behebung
+Risiko
+Erforderliche Maßnahmen
+Betroffene Produkte/Versionen
+Patching-Informationen
+Empfänger
+Spam-Quelle
+Prozentuale Nutzung
+Sitzungs-Nutzung
+CPU-Nutzung
+Bytes
+Kategorie Beschreibung
+Zielland
+Gesamtzahl
+Referenz
+DLP-Typ
+Nummer
+Tag
+Malware
+Anzahl der Anwendungen
+Name der Anwendung
+Technologie
+Hochgefährliche Anwendungen
+Bedrohung
+Opfer
+Verhalten
+App-Kategorien
+Anzahl der Benutzer
+Webanwendung
+URL-Kategorie
+Zero-Day-Malware
+Datei Name
+Hochladen/Herunterladen
+Größe der Datei
+SCCP-Anrufer
+SIP-Anrufer
+Bytes gesamt
+Webfilter-URL
+Botnet-Name
+Phishing-Seite
+Opfer
+Sicherheitsereignis
+Hostname
+Besuche insgesamt
+Ereignis-Zusammenfassung
+SCCP-Verwendung
+Botnet
+Benutzer/Quell-IP
+Anzahl der Verbindungen
+C&C IP
+Anzahl der Sitzungen
+Fortinet PCI-Kennung
+PCI-Anforderung
+PCI-Einhaltung
+FTNT Best Practice IDs
+Beschreibung/Ziel
+Merkmal Kategorie
+Regel
+Datei
+Größe
+Durchsuchungszeit (hh:mm:ss)
+Gesamtanzahl Wifi Clients
+Dateiname
+Land
+App-Kategorie
+SaaS-Kategorie
+Anzahl der Apps
+Erkanntes Datum/Uhrzeit
+Neue Geräte
+Benutzer
+Benutzeroberfläche
+Durchgeführte Aktion
+#Geräte
+#Gerät
+IP-Adresse
+Eindringungsangriffe
+CVE-Nummern
+Art der Bedrohung
+Kritisch
+Hoch
+Mittel
+Niedrig
+Fehlgeschlagene Anmeldeversuche
+# Fehlgeschlagene Authentifizierungen
+#Verweigerte Verbindungsversuche
+Ergebnis der Konformitätsprüfung
+#Ereignis
+Verdikt
+Konfidenzniveau
+Datum hinzugefügt
+Software
+Bereich (oder IP)
+Kategorie der Bedrohung
+Stufe der Bedrohung
+Hosts
+Zeit
+Vorherige Version
+Neue Version
+# Anzahl der Pakete
+Botnet-Domäne (oder IP)
+DNS-Aktion
+Abgefragte Domäne
+Fehlgeschlagene Versuche
+Versuche
+Grund
+Speicher
+Festplatte
+Protokolle pro Sekunde
+Bandbreitenrate (kbps)
+# Logins
+# Konfig-Änderungen
+Info
+Erlaubte Anfrage
+Blockierte Anfrage
+Browsing-Zeit(Min)
+Durchschnittliche Nutzung
+Spitzen-Nutzung
+Durchschnittliche Anzahl
+Spitzenwert
+Durchschnittliche Rate
+Spitzenrate
+Lograte
+Lograte Spitzenwert
+Bandbreiten-Spitzenwert
+Bandbreiten-Zusammenfassung
+Session-Zusammenfassung
+Top-Ziele nach Sitzungen
+Top-Ziele nach Bandbreite
+Top DHCP-Zusammenfassung nach Interfaces
+Top WiFi Clients Bandbreite
+Traffic-Verlauf
+Top 50 der erlaubten Websites nach Anfragen
+Top 50 Websites und Kategorie nach Bandbreite
+Top 20 Web-Benutzer nach Anfragen
+Top blockierte Webbenutzer
+Top-20-Bandbreiten-Benutzer
+Top-Video-Streaming-Anwendungen und Websites nach Bandbreite
+Top E-Mail-Absender
+Top-E-Mail-Empfänger
+Top-Absender nach Gesamtgröße der E-Mails
+Top-Empfänger nach Gesamtgröße der E-Mails
+Top Malware
+Top Site-to-Site IPsec-Tunnel nach Bandbreite
+Top SSL-Tunnel-Benutzer nach Bandbreite
+Top Einwahl-IPsec-Tunnel nach Bandbreite
+Top Einwahl-IPsec-Benutzer nach Bandbreite
+Top DFÜ-IPsec-Benutzer nach Dauer
+Top SSL-Webportal-Benutzer nach Bandbreite
+Top SSL-Webportal-Benutzer nach Dauer
+Top SSL-Benutzer nach Dauer
+Top Dial-up VPN-Benutzer nach Dauer
+VPN-Anmeldungen
+Top Fehlgeschlagene VPN-Logins
+Top authentifizierte VPN-Anmeldungen
+Top Site-to-Site IPsec-Tunnel nach Bandbreite und Verfügbarkeit
+Top Dial-up IPsec-Benutzer nach Bandbreite und Verfügbarkeit
+Top SSL-Tunnel-Benutzer nach Bandbreite und Verfügbarkeit
+Top SSL-Webportal-Benutzer nach Bandbreite und Verfügbarkeit
+Top 20 Admin-Login Zusammenfassung
+Admin Login Zusammenfassung nach Datum
+Top 20 Fehlgeschlagene Admin-Anmeldungen
+Top 5 Systemereignisse nach Schweregrad
+Zusammenfassung der Systemereignisse nach Datum
+Kritische hohe und mittlere Ereignisse nach Datum
+Top 100 kritische Systemereignisse nach Schweregrad
+Top 100 Systemereignisse mit hohem Schweregrad
+Top 100 Systemereignisse mit mittlerem Schweregrad
+UTM Drilldown Nr.1 Verkehrsübersicht
+UTM Drilldown Top 10 Benutzerziel
+UTM Drilldown E-Mail-Absender Zusammenfassung
+UTM Drilldown E-Mail-Empfänger Zusammenfassung
+UTM Drilldown Top 5 E-Mail-Empfänger nach Bandbreiten
+UTM Drilldown Top 5 E-Mail-Absender nach Bandbreite
+UTM Drilldown Top Erlaubte Websites nach Bandbreite
+UTM Drilldown Top geblockte Websites nach Requests
+UTM Drilldown Top 20 Viren nach Name
+UTM Drilldown Top 20 Angriffe
+UTM Drilldown Top 20 Sicherheitslücken
+UTM Drilldown Top 5 Anwendungen nach Bandbreite
+UTM Drilldown Top 5 Anwendungen nach Sessions
+Top 5 Benutzer nach Bandbreite
+Top 30 Anwendungen nach Bandbreite und Sitzungen
+Top-Anwendungskategorien nach Bandbreite
+Top 30 Benutzer nach Bandbreite und Sitzungen
+Aktiver Verkehr Benutzer
+Top-30-Ziele nach Bandbreite und Sitzungen
+Top 30 Policies nach Bandbreite und Sitzungen
+Verkehrsstatistiken
+Zusammenfassung der Bedrohungsergebnisse
+Zusammenfassung der Bedrohungsvorfälle
+Top-Benutzer nach Bedrohungseinstufung
+Top-Geräte nach Bedrohungseinstufung
+Top-Benutzer nach erhöhter Bedrohungseinstufung
+Top-Geräte nach erhöhter Bedrohungseinstufung
+Top 5 Angriffe nach Schweregrad
+Top blockierte Angriffe
+Top Malware-Quellen
+Angriffs-Zusammenfassung
+Zeitleiste der Viren
+Top Spyware-Opfer
+Wichtigste Spyware
+Wichtigste Spyware-Quellen
+Spyware-Zeitleiste
+Top Adware-Opfer
+Top Adware
+Top Adware-Quellen
+Adware-Zeitleiste
+Zeitleiste Eindringlinge
+Zeitleiste der kritischen hohen und mittleren Eindringlinge
+Top 20 Eindringlinge nach Typ
+Top 20 der kritischsten Eindringlinge
+Top 20 Eindringlinge mit hohem Schweregrad
+Top 20 Eindringlinge mittleren Schweregrads
+Top 20 Angriffsopfer
+Top 20 Quellen von Eindringlingen
+Top 20 Blockierte Eindringlinge
+Top 20 überwachte Eindringlinge
+Angriffe über HTTP oder HTTPs
+Top Off-Wire AP Zusammenfassung Tortendiagramm
+Top-Off-Wire-AP-Zusammenfassung
+Top On-Wire AP Zusammenfassung Tortendiagramm
+Top On-Wire AP Zusammenfassung
+Managed AP Zusammenfassung Tortendiagramm
+Top Managed AP Zusammenfassung
+Unclassified AP Zusammenfassung Kuchendiagramm
+Top Unclassified AP Zusammenfassung
+Oben Off-Wire AP Details
+Top On-Wire AP Details
+Top 100 WiFi-Client-Details
+Top 100 Off-Wire akzeptierte APs
+Top 100 On-Wire Angenommene APs
+Off-Wire Rogue APs
+Top 100 On-Wire Rogue APs
+Top 100 Off-Wire unterdrückte APs
+Top 100 On-Wire unterdrückte APs
+Top 100 Off-Wire unklassifizierte APs
+Top 100 On-Wire unklassifizierte APs
+Top IPsec Einwahl-Benutzer nach Bandbreite
+Top SSL VPN-Quellen nach Bandbreite
+Zusammenfassung der Web-Aktivitäten
+Zusammenfassung der Browsing-Zeit Erweitert
+Top gesperrte Websites und Kategorien
+Top 50 Erlaubte Websites
+Top 20 der gesperrten Webkategorien
+Top 20 der erlaubten Webkategorien
+Top 50 Websites nach Verweildauer
+Top 50 Websites nach Browsing Time Enhanced
+Top-Webkategorien nach Browsing-Zeit
+Top-Webkategorien nach Browsing-Zeit Erweitert
+Top Zielländer nach Browsing-Zeit
+Top 10 Zielländer nach Browsing Time Erweitert
+Top-Benutzer Browsing-Zeit
+Top Users nach Browsing Time Enhanced
+Top-Benutzer nach Verweildauer
+Top-Benutzer nach Browsing-Zeit Erweitert
+Top APs nach Bandbreite
+Top APs nach WiFi-Clients
+Top SSIDs nach Bandbreite
+Top SSIDs nach WiFi-Clients
+Top-Anwendungen nach WiFi-Traffic
+Top WiFi Clients nach Bandbreite
+Top OS nach WiFi-Verkehr
+Wichtigstes Betriebssystem nach WiFi-Clients
+Top-Gerätetypen nach WiFi-Verkehr
+Top-Gerätetypen nach WiFi-Clients
+WiFi-Verkehrsbandbreite
+Anzahl der einzelnen WiFi-Clients
+Top 30 Subnetze nach Bandbreite und Sitzungen
+Top 30-Subnetze nach Anwendungsbandbreite
+Top 30 Subnetze nach Anwendungssitzungen
+Top-30-Subnetze nach Website-Bandbreite
+Top-30-Subnetze nach Website-Treffern
+Top-30-Subnetze mit Top-10-Benutzern nach Bandbreite
+Top-30-Subnetze mit Top-10-Benutzern nach Sitzungen
+Top 20 Kategorie und Anwendungen nach Bandbreite
+Top 20 Kategorie und Anwendungen nach Sitzungen
+Top 500 Erlaubte Anwendungen nach Bandbreite
+Top 500 blockierte Anwendungen nach Sitzungen
+Detailliertes Web-Browsing-Protokoll
+Stündliche Kategorie- und Website-Hits
+Top 20 Kategorie und Websites nach Bandbreite
+Top 20 Kategorie und Websites nach Sitzungen
+Top 500 Websites nach Bandbreite
+Top-500-Benutzer-Websites nach Bandbreite
+Benutzer Top 500 Websites nach Sitzungen
+Zusammenfassung der installierten Funktionen
+Gerät nach OS
+FortiClient-Version: Installiert
+Endpunktprofil-Bereitstellung
+Client-Zusammenfassung
+Gefundene Bedrohungen insgesamt
+Top 10 der erkannten AV-Bedrohungen
+Top 10 der infizierten Geräte mit Botnet
+Top 10 der infizierten Geräte mit Viren oder Malware
+Alle Antivirus- und Antimalware-Erkennungen
+Verstöße gegen Webfilter
+Anwendungs-Firewall
+Fehler und Warnungen
+Bedrohungen nach Top-Geräten
+Erkannte Schwachstellen nach Gerät
+Erkannte Schwachstellen nach Kategorie-Typ
+Erkannte Sicherheitsrisiken der Betriebssysteme
+Anzahl der Sicherheitsrisiken nach Risikostufe
+Anzahl der Sicherheitsrisiken nach Gerät und Risikostufe
+Der Trend bei den Sicherheitsrisiken
+Details zu Sicherheitsrisiken für jede Risikostufe nach Gerät
+Details zur Sicherheitsanfälligkeit nach Gerätebenutzer
+Behebung der auf dem Gerät gefundenen Sicherheitsanfälligkeit
+Behebung nach Schwachstelle
+Die 30 wichtigsten Sicherheitslücken mit hohem Risiko
+Anzahl der erkannten Betriebssysteme
+Drilldown Top 20 Anwendungen nach Sitzungen
+Drilldown Top 20 Anwendungen nach Sitzungen Balkendiagramm
+Drilldown Top 20 Anwendungen nach Bandbreite
+Drilldown Top 20 Anwendungen nach Bandbreite Balkendiagramm
+Drilldown Top 20 Ziele nach Sitzungen
+Drilldown Top 20 Ziele nach Bandbreite
+Drilldown Top 20 Benutzer nach Sitzungen
+Drilldown Top 20 Benutzer nach Sitzungen Balkendiagramm
+Drilldown Top 20 Benutzer nach Bandbreite
+Drilldown Top 20 Benutzer nach Bandbreite Balkendiagramm
+Drilldown Top 20 Web-Benutzer nach Visits
+Drilldown Top 20 Web-Benutzer nach Besuche Balkendiagramm
+Drilldown Top 20 Website nach Requests
+Drilldown Top 20 Website nach Anfragen Balkendiagramm
+Drilldown Top 20 E-Mail-Versender nach Volumen
+Drilldown Top 20 E-Mail-Sendeempfänger nach Volumen
+Drilldown Top 20 E-Mail-Absender nach Anzahl
+Drilldown Top 20 E-Mail-Sendeempfänger nach Anzahl
+Drilldown Top 20 E-Mail-Empfänger nach Volumen
+Drilldown Top 20 E-Mail-Empfänger nach Volumen
+Drilldown Top 20 E-Mail-Empfänger nach Anzahl
+Drilldown Top 20 E-Mail-Empfänger Absender nach Anzahl
+Drilldown Top 20 Angriffsziel
+Drilldown Top Angriffsquelle
+Drilldown Top 20 Angriffsliste
+Drilldown Top-20-Viren
+Drilldown Virus Details
+Benutzer Drilldown Top blockierte Websites nach Anfragen
+Benutzer-Drilldown Top erlaubte Websites nach Anfragen
+Benutzer-Drilldown Top blockierte Web-Kategorien
+Benutzer Drilldown Top Erlaubte Webkategorien
+Benutzer Drilldown Top Angriffe
+User Drilldown Top Angriffe hoher Schweregrad
+Benutzer Drilldown Top Virus nach Name
+Benutzer Drilldown Top Virusempfänger über E-Mail
+Benutzer-Drilldown Zählung der Spam-Aktivitäten nach Tageszeit
+Benutzer Drilldown Top Spam-Quellen
+Speicherauslastung
+Session Auslastung
+CPU-Sitzungsauslastung
+Top 20 Benutzer nach Bandbreite
+Top-20-Benutzer oder -Quellen nach Sitzungen
+Top-Benutzer nach Bedrohungsgrad
+Top-Geräte nach Bedrohungsgrad
+Top-Anwendungskategorien nach Bandbreite
+Top 30 Anwendungskategorien nach Bandbreite
+Top 20 Anwendungskategorien nach Bandbreite
+Top 30 Schlüsselanwendungen
+Anwendungen, die über HTTP laufen
+Top-Webkategorien nach Bandbreite und Sitzungen
+Top 20 Webkategorien nach Bandbreite und Sitzungen
+Top 20 Web-Domains nach Besuche
+Top 15 Zielländer nach Verweildauer
+Top-Zielländer nach Browsing Time Enhanced
+Top 15 Websites nach Verweildauer
+Top-Websites nach Browsing Time Enhanced
+Top 5 IPS-Ereignisse nach Schweregrad
+Wichtigste IPS-Ereignisse mit kritischem Schweregrad
+Top IPS-Ereignisse mit hohem Schweregrad
+Top IPS-Ereignisse mit mittlerem Schweregrad
+Top IPS-Ereignisse mit niedrigem Schweregrad
+Top Informational Severity IPS-Ereignisse
+Top-20-Viren
+Top 20 Virenopfer
+Top DLP-Ereignisse
+Top Anwendungsschwachstellen
+Entdeckte Viren
+Verteilung des Anwendungsrisikos
+Anzahl der Anwendungen nach Risikoverhalten
+Top 20 Anwendungen mit hohem Risiko
+Schwerwiegende und hochriskante Anwendungen
+Bedrohungen Prävention
+Ausnutzung von Anwendungsschwachstellen
+Hochriskante Anwendungen, die das Netzwerk durchqueren
+Merkmale des Anwendungsverhaltens
+Wichtige Anwendungen, die das Netzwerk durchqueren
+Aufschlüsselung der Anwendungskategorien nach Bandbreite
+Die 25 wichtigsten Webkategorien nach Bandbreite
+Meistbesuchte Webkategorien
+Verbreitete Virus-Botnets sowie Spyware und Adware
+Im Netzwerk entdeckte Zero-Day-Malware
+Von der FortiCloud-Sandbox analysierte Dateien
+Von der FortiCloud-Sandbox erkannte bösartige Dateien
+Von Anwendungen übertragene Dateien
+Meistgesperrte SCCP-Anrufer
+Top blockierte SIP-Anrufer
+360-Grad-Anwendungssicht und -Kontrolle
+360-Grad-Erkennung und -Prävention von Bedrohungen
+360-Grad-Erkennung und -Prävention von Datenexfiltration
+360-Grad-Schutz für Endgeräte
+Top 20 Hochrisiko-Anwendungen im Einsatz
+Hochriskante Anwendungen nach Kategorie
+Anwendungskategorien nach Bandbreiten
+Aufschlüsselung der Kategorien aller Anwendungen
+Top 25 Webanwendungen nach Bandbreite
+Am häufigsten besuchte Web-Kategorien
+Schadprogramme: Viren, Botnetze, Spyware und Adware
+Schadprogramme: Viren Spyware und Adware
+Malware: Botnet
+Opfer von Malware
+Opfer von Phishing-Seiten
+Bösartige Phishing-Seiten
+Anwendungsschwachstelle entdeckt
+Sicherheitsüberprüfung: Von FortiCloud Sandbox analysierte Dateien
+Sicherheitsüberprüfung: Im Netzwerk entdeckte Zero-Day-Malware
+Zusammenfassung der Datenverlustvorfälle nach Schweregrad
+Datenverlust-Dateien nach Dienst
+Zusammenfassung der Endpunktsicherheitsereignisse
+Endpunkte, auf denen Anwendungen mit hohem Risiko ausgeführt werden
+Mit Malware infizierte Endpunkte
+Endpunkte mit Webverletzungen
+Endpunkte mit Datenverlustvorfällen
+Anzahl der SCCP-Anrufregistrierungen nach Tagesstunden
+SCCP-Anrufdauer nach Tagesstunde
+Anzahl der SCCP-Anrufe nach Status
+Anzahl der SIP-Anrufregistrierungen pro Tagesstunde
+Anzahl der SIP-Anrufe nach Status
+Verteilung der SIP-Anrufe nach Dauer
+Top-Botnets nach Quellen
+Top Botnet infizierte Hosts
+Erkannte Botnets
+Wichtigste Botnet-Quellen
+Botnet-Opfer
+Botnet-Zeitleiste
+Grafik Sitzungsverlauf
+Bandbreitennutzung von Anwendungen
+Zusammenfassung der PCI-Konformität
+Nicht-konforme PCI DSS-Anforderungen nach Schweregrad
+PCI DSS-konforme Anforderungen nach Schweregrad
+PCI DSS Zusammenfassung der Best Practices für Fortinet-Sicherheit
+PCI DSS Fehlgeschlagene Fortinet Security Best Practices nach Schweregrad
+PCI DSS Bestanden Fortinet Security Best Practices nach Schweregrad
+Details zur Einhaltung der PCI DSS-Anforderungen
+Details zur PCI DSS-Best-Practice für Fortinet-Sicherheit
+Details zur E-Mail-DLP-Aktivität
+Zusammenfassung der E-Mail-DLP-Verstöße
+Details zur Web-DLP-Aktivität
+Zusammenfassung der Web-DLP-Verstöße
+Details zur FTP-DLP-Aktivität
+Zusammenfassung der FTP-DLP-Verstöße
+Top 20 Browsing-Benutzer Drilldown
+Wifi-Nutzung nach Stunden - Authentifiziert
+Wifi-Nutzungs-Zeitleiste - Authentifiziert
+Top-10-Anwendungsbandbreite nach Benutzer Drilldown
+Top-10-Anwendungssitzungen nach Benutzer Drilldown
+Interface Bandbreitennutzung
+CTAP SB Dateien mit Inspektionsbedarf im Vergleich zu anderen
+CTAP SB Aufschlüsselung der Dateitypen
+CTAP SB Top Sandbox bösartige Exen
+CTAP SB Quellen der in der Sandbox entdeckten Malware
+CTAP Hochrisiko-Anwendungen, die das Netzwerk durchqueren
+CTAP Application Vulnerability Exploits (Schwachstellen in Anwendungen)
+CTAP Häufige Virus-Botnets sowie Spyware und Adware
+CTAP Top-Geräte nach Bedrohungsgrad
+CTAP Verhältnis des HTTP-SSL-Verkehrs
+CTAP Top-Quell-Länder
+CTAP SaaS-Anwendungen
+CTAP IaaS-Anwendungen
+CTAP RAS-Anwendungen
+CTAP Proxy-Anwendungen
+CTAP Top Social Media Anwendungen nach Bandbreite (Torte)
+CTAP Top Streaming Anwendungen nach Bandbreite (Pie)
+CTAP Top Spieleanwendungen nach Bandbreite (Pie)
+CTAP Top P2P Anwendungen nach Bandbreite (Pie)
+CTAP Top besuchte Webkategorien
+CTAP-Anwendungen, die über HTTP laufen
+CTAP Top Web Domains nach Besuchen
+CTAP Top-Websites nach Verweildauer
+CTAP Durchschnittliche Bandbreiten-Stunde
+CTAP Top-Bandbreiten-Hosts
+Alle im Netzwerk entdeckten Anwendungen
+Sanktionierte vs. nicht sanktionierte SaaS-Anwendungen
+Sanktionierte vs. tolerierte Anwendungen nach Bandbreite
+Sanktionierte vs. tolerierte Anwendungen nach Sitzung
+Anzahl der Nutzer von SaaS-Anwendungen im Vergleich zu anderen
+Anzahl der Nutzer von SaaS-Apps
+Top 10 SaaS-Benutzer nach Bandbreite und Sitzung
+Top 10 Kategorien - Nutzung von SaaS-Anwendungen
+Top 10 SaaS-Kategorien nach Anzahl der Nutzer
+Top 10 Benutzer nach Anzahl der SaaS-Anwendungen
+Top 10 SaaS-Anwendungen nach Sitzungen und Bandbreite
+Top 10 der tolerierten SaaS-Anwendungen nach Bandbreite
+Drilldown - Top 5 tolerierte SaaS-Anwendungen nach Bandbreite und Sitzung
+Top 5 Benutzer nach Top 5 tolerierten SaaS-Anwendungen Drilldown
+Top 5 File Sharing SaaS Anwendungen Detail
+Top 5 File Sharing SaaS Anwendungen
+Top 5 File Sharing SaaS Anwendungen Drilldown
+Gerät nach Standort
+Netzwerk-Geräte
+Top 3 neue Geräte
+Top Endpunkt-Betriebssysteme
+Die 5 wichtigsten Endgeräteanwendungen - Windows
+Top 5 Endpunkt-Anwendungen - Mac
+Top 10 SaaS-Anwendungen nach Anzahl der Benutzer
+Zusammenfassung der Änderungen
+Details zur Änderung
+Schwachstellen nach Schweregrad
+Schwachstellen-Trend
+Top 10 der kritischen Sicherheitsrisiken - Endpunkt
+Die 10 wichtigsten Endpunkt-Schwachstellen im letzten Zeitraum
+Top 5 Geräte-Angriffsziele - Endpunkt
+Wichtigste Angriffsziele - Endpunkt
+Bedrohungen nach Schweregrad
+Bedrohungsarten nach Schweregrad
+Bedrohungen nach Tag
+Bedrohungen nach Tag Radar
+Anzahl der Malware-Ereignisse
+Top 10 Malware nach Anzahl
+Top 5 Fehlgeschlagene Anmeldeversuche
+Top 5 Fehlgeschlagene Authentifizierungsversuche
+Top 5 Verweigerte Verbindungen
+Fehlgeschlagene Compliance-Prüfungen nach Gerät
+IOC-Verletzungen nach Quelle
+Potenzieller IOC-Verstoß nach Tag
+Potenzieller IOC-Verstoß nach Tag - Balken
+IOC Top 10 der potenziellen Verstöße
+Neue Benutzer
+Neu installierte Software
+Neue Sicherheitsbedrohungen
+Neue Botnet-Domänen und IPs, die durch DNS-Filterung erkannt wurden
+Zeitleiste für neue Sicherheitsbedrohungen
+Neue Schwachstellen
+Neue Schwachstellen (Grafik)
+System-Warnungen
+Konfigurationsänderungen
+FortiGate-Upgrades
+Benutzer-Upgrades
+Liste der verwendeten APNs
+Top 30 APNs nach Bytes
+Top 30 APNs nach Dauer
+Top 30 APNs nach Anzahl der Pakete
+Top 10 der durch DNS-Filterung erkannten Botnet Command-and-Control Domains und IPs
+Durch DNS-Filterung erkannte Botnet Command-and-Control-Nutzung
+Über DNS erkannte Botnets
+Durch DNS-Filterung erkannte Botnet-Domänen und -IPs
+Hochrisiko-Quellen
+DNS-Anfragen im Zeitverlauf
+Top abgefragte Domain
+Top Domain Lookup Failures (Balken)
+Top Domain Lookup Failures
+Abfragezeitüberschreitung
+Blockierte Abfragen
+Ressource CPU-Auslastung
+Ressource Speicherauslastung
+Ressource Festplattennutzung
+Ressource Sitzungen
+Ressource Logs pro Sekunde
+Ressource Verbindungen pro Sekunde
+Ressource Bandbreitenrate
+Zusammenfassung der Ressourcennutzung - Durchschnitt
+Zusammenfassung der Ressourcennutzung - Spitzenwert
+Ressourcennutzung Top 50 Drilldown
+Sicherheitsanalyse
+Drahtlose PCI-Konformität
+360-Grad-Sicherheitsüberprüfung_1531855540
+Zusammenfassung des WiFi-Netzwerks
+Analyse der Benutzersicherheit
+Bandbreiten- und Anwendungsbericht
+Bericht über Verwaltungs- und Systemereignisse
+Bedrohungsbericht
+IPS-Bericht
+Detaillierte Anwendungsnutzung und Risiko
+Die 20 wichtigsten Kategorien und Anwendungen (Bandbreite)
+Top 20 Kategorien und Anwendungen (Sitzung)
+Top Erlaubt und Blockiert mit Zeitstempeln
+Detailliertes Benutzer-Browsing-Protokoll
+Stündliche Website-Aufrufe
+Top 20 Kategorie und Websites (Bandbreite)
+Top 20 Kategorie und Websites (Sitzung)
+Top 500 Sitzungen nach Bandbreite
+Benutzer Top 500 Websites nach Sitzung
+Anwendungsrisiko und -kontrolle
+FortiClient-Standardbericht
+360-Grad-Sicherheitsüberprüfung
+Detaillierter Bericht zum Schutz vor Datenverlusten
+Überprüfung der PCI-DSS-Konformität
+FortiClient Schwachstellen-Scan-Bericht
+Bewertung von Cyber-Bedrohungen
+SaaS-Anwendungsnutzungsbericht
+Was ist neu Bericht
+GTP-Bericht
+DNS-Bericht
+FortiGate-Leistungsstatistik-Bericht
+Webseiten
+Cache-Bandbreite
+Gesamt-Bandbreite
+Bandbreiteneinsparung
+Im Cache gespeicherte Anzahl
+Zwischengespeicherte Rate
+Verbesserung
+Bytes_in
+Bytes_aus
+FortiCache-Standardbericht
+FortiCache Web-Nutzungsbericht
+FortiCache Sicherheitsanalyse
+Traffic-Zeitleiste
+Anfrage-Zeitleiste
+Top-Websites nach Bandbreite Tortendiagramm
+Globale Bandbreiteneinsparungen
+Top 20 Websites nach Bandbreiteneinsparung
+Globale Cache-Rate
+Top 20 Websites nach Cache-Rate
+Top 20 Websites nach Verbesserung der Reaktionszeit
+Top 20 Webbenutzer nach Bandbreite
+Top 20 gesperrte Websites
+Top 10 gesperrte Kategorien
+Top 50 blockierte Websites und Kategorien
+Top 10 Web-Kategorien nach Anfrage
+Top 20 Web-Benutzer nach erlaubten Requests
+Top 20 Web-Benutzer nach blockierten Anfragen
+Top 10 Websites nach Bandbreite
+Angriffe nach Zeitspanne
+Angreifer nach Zeitraum
+Top 20 Angriffe
+Top 20 Angriffsarten
+Top 20 Ziele
+Top 20 Ziele nach Typ
+Angreifer
+FortiDDos-Standardbericht
+FortiMail-Analysebericht
+Top Historie Client IP
+Top-History Lokaler Benutzer
+Top-Historie Remote-Adresse
+Top-Historie Virus
+Höchster Verlauf Client MSISDN
+Top History Client Endpunkt
+Top History Absender
+Top History Absender IP
+Top-History Lokaler Absender
+Top History Remote Sender
+Verlaufsübersicht Sender MSISDN
+Top History Absender Endpunkt
+Top History Empfänger
+Top History Lokaler Empfänger
+Top History Remote-Empfänger
+Höchster Verlauf Mail Dest IP
+Top History Total Gesendet Empfangen
+Top-Historie Virus Absender
+Höchste Historie Virus IP
+Höchster Verlauf Lokaler Virusabsender
+oberer Verlauf Remote Virus Sender
+Höchster Verlauf Virus MSISDN
+Top History Virus Endpunkt
+Top-History-Virus-Empfänger
+Top-Historie Lokaler Virus-Empfänger
+Top-Historie Remote-Virus-Empfänger
+Höchste Historie Virus Dest IP
+Top-Historie Aktive E-Mail-Adressen insgesamt
+Verlauf Durchschnittliche Größe pro Stunde
+Verlauf Nachrichten pro Stunde
+Historie Gesamtgröße pro Stunde
+Historie Verbindungen pro Stunde
+Durchschnittliche Größe der Mails
+Gesamtgröße der Mails
+Anzahl der Mail-Verbindungen
+Anzahl der Mails
+Gesamte Nachrichtenverzögerung
+Gesamtverzögerung der Nachrichtenübertragung
+Top 20 IP-Richtlinie
+Top-20-Empfänger-Richtlinie
+Top 20 Zugriffsliste
+Top gespammte Domains
+Top Spammed Benutzer
+Top-Klassifizierer nach Stunden
+Top Dispositionsklassifizierer
+Top 20 Themen
+Stunde
+Größe (Bytes)
+Nachrichten
+Verbindungen
+Empfänger Politik
+Zugriffsliste
+Disposition
+Betreffe
+FortiWeb Web-Anwendungsanalyse-Bericht
+Top-Angriffsarten
+Top-Angriffs-URLs
+Top-Angriffsschwere nach Aktion
+Top-Angriffsziele nach Typ
+Top-Angriffsziele nach Quelle
+Wichtigste Angriffsarten nach Quelle
+Am häufigsten angegriffene HTTP-Methoden nach Typ
+Top-Angriffe nach Richtlinie
+Top angegriffene Ziele
+Top-Angriffsprotokolle nach Typ
+Top angegriffene Benutzeridentifikationen
+Top-Verkehrsrichtlinien
+Top-Verkehrsdienste
+Top-Verkehrsquellen
+Top-Traffic-Ziele
+Wichtigste Ereigniskategorien nach Status
+Top-Ereignis-Login nach Benutzer
+Bandbreite über Zeit
+Top-Hosts pro Antwort-Bytes
+Bandbreite pro Domain über die Zeit
+Top-Hosts
+Alle Hosts
+Top Hits pro Domain über die Zeit
+Top Hits pro Unique Src pro Domain über die Zeit
+HTTP-Methoden im Zeitverlauf
+Top HTTP-Antwortstatus-Codes
+Top 400 Response Status Codes pro URL
+Top 500 Response Status Codes pro URL
+Top HTTP-Response-Status-Codes pro Domain
+Top User Agent
+Untertyp
+HTTP-Host
+HTTP-Anfrage-Bytes
+HTTP-Antwort-Bytes
+HTTP-RetCode
+HTTP-Agent
+FortiSandbox Standardbericht
+Verteilung der Bedrohungseinstufung
+Job-Schweregrad-Zeitleiste
+Malware-Schweregrad der angegriffenen Hosts
+Kurze Job-Liste
+FSA Top 20 Malware
+FSA Top 50 Dateityp
+FSA Top 50 Quell-OS
+FSA Top 20 angegriffene Hosts
+Job-Schweregrad der angegriffenen Hosts
+Daten/Zeit
+Gezielte Hosts
+Benutzer einreichen
+Typ der Übermittlung
+Betrag
+Datei-Typ
+Anzahl der Aufträge
+Quelle OS
+Bewertung
+FortiProxy-Standardbericht
+FortiProxy Web-Nutzungsbericht
+FortiProxy-Sicherheitsanalyse
+Stunde des Tages
+Aggregierte gewählte Zeit(hh:mm:ss)
+Anzahl
+HTTP Retcode
+
+
+Ungültiger Berichtsname,Erlaubte Zeichen in Namen sind: Ziffern(0-9), Buchstaben(A-Z, a-z), Bindestrich(-), Unterstrich(_)
+Berichtsname darf NICHT leer sein
+Name zu lang, max. 3
+Verkehrsbericht generieren
+Name
+Zeitspanne
+Letzte Stunde
+Letzte 24 Stunden
+Letzte 7 Tage
+Letzte 30 Tage
+Zusammenfassung der Top-Benutzer einbeziehen
+Auswahl der Geräte
+Alle Geräte
+Bericht Ausgabe
+PDF
+MSWord
+Sie müssen mindestens ein Berichtsausgabeformat auswählen
+Jetzt generieren
+Abbrechen
+Aktion
+Startzeit
+Endzeit
+Formate
+Löschen
+Löschen Bestätigen
+Sind Sie sicher, dass Sie löschen möchten?
+Ok
+Der Bericht wurde gestartet. Er wird erscheinen als 
+Name des duplizierten Berichts
+Rückgabe
+Bidirektionales Liniendiagramm
+Bidirektionales Balkendiagramm
+Vorgelagertes Liniendiagramm
+Vorgelagertes Balkendiagramm
+Downstream-Liniendiagramm
+Nachgelagertes Balkendiagramm
+Top SMTP Server nach Verkehrsaufkommen
+Top POP3 Server nach Verkehrsaufkommen
+Top IMAP Server nach Verkehrsaufkommen
+Top E-Mail-Absender nach Volumen
+Top-E-Mail-POP3-Empfänger nach Verkehrsaufkommen
+Top E-Mail IMAP-Empfänger nach Verkehrsaufkommen
+Top Web Server nach Traffic-Volumen
+Top Web Server nach Hit Count
+Top FTP Server nach Verkehrsaufkommen
+Top Streaming Hosts nach Volumen
+Top RTSP-Server nach Volumen
+Top MMS-Server nach Volumen
+Top RTSP-Clients nach Volumen
+Top MMS-Clients nach Volumen
+Bericht
+Gerät
+Löschen
+ausführen
+
+Wird verarbeitet, bitte warten...
+In Bearbeitung...
+Verkehrsübersichtsbericht
+Seite
+Top-Benutzer
+Geräte-Zusammenfassung
+Erzeugt am
+Erzeugt von
+Zeitraum
+Geräte
+E-Mail-Verkehr
+Web-Verkehr
+FTP-Verkehr
+IM/P2P-Verkehr
+Geräte-ID
+Quelle
+Verkehr
+Letzte Aktivität
+Hochladen
+Herunterladen
+Nachrichten
+Dateiübertragungen
+Keine Daten
+
+Verhinderte Eindringlinge nach Zielgerät
+Top-Websites nach Gerät
+Top-Kategorien nach Gerät
+Verkehr nach Geräten mit Treffern
+
+Verhinderte Eindringlinge nach Zielgerät
+Top-Websites nach Gerät
+Top-Kategorien nach Gerät
+Datenverkehr nach Geräten mit Treffern
